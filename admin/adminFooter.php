@@ -22,19 +22,11 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="footer-link">
                             <h2>Popular Links</h2>
-                            <a href="about.php">About Us</a>
-                            <a href="contact.php">Contact Us</a>
-                            <a href="service.php">Our Service</a>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="footer-link">
                             <h2>Useful Links</h2>
-                            <a href="admin/login.php">Terms of use</a>
-                            <a href="">Privacy policy</a>
-                            <a href="">Cookies</a>
-                            <a href="">Help</a>
-                            <a href="">FQAs</a>
                         </div>
                     </div>
                 </div>

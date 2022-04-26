@@ -62,7 +62,7 @@
                             </div>
                             <div class="price-body">
                                 <p>
-                                    <strong>Event 2 Details</strong><br /><br />
+                                    <strong>Event 2 Details</strong><br />
                                     Venue: event Venue<br />
                                     Time: start and end time<br />
                                     Theme: the Theme<br />
@@ -80,7 +80,7 @@
                             </div>
                             <div class="price-body">
                                 <p>
-                                    <strong>Event 1 Details</strong><br /><br />
+                                    <strong>Event 1 Details</strong><br />
                                     Venue: event Venue<br />
                                     Time: start and end time<br />
                                     Theme: the Theme<br />
@@ -98,7 +98,7 @@
                             </div>
                             <div class="price-body">
                                 <p>
-                                    <strong>Event 3 Details</strong><br /><br />
+                                    <strong>Event 3 Details</strong><br />
                                     Venue: event Venue<br />
                                     Time: start and end time<br />
                                     Theme: the Theme<br />
