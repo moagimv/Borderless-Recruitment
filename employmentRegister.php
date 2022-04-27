@@ -89,10 +89,14 @@
                                 <div class="control-group">
                                     <input type="text" class="form-control" id="country" name="country" placeholder="Your country of Origin" required="required" data-validation-required-message="Please enter your country of Origin" />
                                     <p class="help-block text-danger"></p>
-                                </div>                                
+                                </div>  
+                                <div class="control-group">
+                                    <input type="text" class="form-control" id="position" name="position" placeholder="Your potential position" required="required" data-validation-required-message="Please enter your potential position" />
+                                    <p class="help-block text-danger"></p>
+                                </div>                               
                                 <div class="row">
                                     <div class="control-group col-lg-4 col-md-6">
-                                        <p>Copy of Identity</p>
+                                        <p>Copy of Identity (ID)</p>
                                         <input type="file" id="id" name="id">
                                     </div>
                                     <div class="control-group col-lg-4 col-md-6">
@@ -100,7 +104,7 @@
                                         <input type="file" id="cv" name="cv">
                                     </div>
                                     <div class="control-group col-lg-4 col-md-6">
-                                        <p>Copy of Results</p>
+                                        <p>Copy of Results/Certification</p>
                                         <input type="file" id="results" name="results">
                                     </div>
                                     <p class="help-block text-danger"></p>

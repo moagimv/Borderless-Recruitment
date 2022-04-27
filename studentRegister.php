@@ -91,12 +91,12 @@
                                     <p class="help-block text-danger"></p>
                                 </div>
                                 <div class="control-group">
-                                    <select name="country" id="country" type="text" class="form-control" required="required" data-validation-required-message="Please select your country of study">
-                                        <option value="">Select One Country</option>
-                                        <option value="southafrica">South Africa</option>
-                                        <option value="poland">Poland</option>
-                                        <option value="dubae">Dubae (UAE)</option>
-                                        <option value="nertherlands">Nertherlands</option>
+                                    <select name="university" id="university" type="text" class="form-control" required="required" data-validation-required-message="Please select your University">
+                                        <option value="">Select One University</option>
+                                        <option value="up">University of Pretoria (UP)</option>
+                                        <option value="uj">University of Johannesburg (UJ)</option>
+                                        <option value="tut">Tshwane University of Technology (TUT)</option>
+                                        <option value="wits">University of Witwatersrand</option>
                                     </select>
                                     <p class="help-block text-danger"></p>
                                 </div>
@@ -120,7 +120,7 @@
                                         <input type="file" id="passport" name="passport">
                                     </div>
                                     <div class="control-group col-lg-4 col-md-6">
-                                        <p>Copy of Results</p>
+                                        <p>Copy of Results/Certification</p>
                                         <input type="file" id="results" name="results">
                                     </div>
                                     <p class="help-block text-danger"></p>

@@ -99,11 +99,14 @@
                 <div class="contact">
             <div class="container">
                 <div class="section-header text-center">
-                    <p>Student Application</p>
-                    <h2>Apply for student opportunities</h2>
+                    <p>Admin Console</p>
+                    <h2>Sign In</h2>
                 </div>
-                <div class="row">                    
-                    <div class="col-md-12">
+                <div class="row">  
+                    <div class="col-md-4">
+
+                    </div>                
+                    <div class="col-md-4">
                         <div class="contact-form">
                             <?php
                                 $Msg = "";
@@ -117,7 +120,7 @@
                                     echo('<div id="success" class="alert alert-success">'.$Msg.'</div>');
                                 }
                             ?>
-                            <form id="studentApplication" name="studentApplication" novalidate="novalidate">
+                            <form id="adminSingIn" name="adminSingIn" novalidate="novalidate">
                                 <div class="control-group">
                                     <input type="text" class="form-control" id="username" name="username" placeholder="Your Username" required="required" data-validation-required-message="Please enter your username" />
                                     <p class="help-block text-danger"></p>
@@ -128,10 +131,13 @@
                                 </div>
                                 <div>
                                 <p class="help-block text-danger"></p>
-                                    <button class="btn btn-custom" type="submit" id="submitStudentAppplication" name="submitStudentAppplication">Submit</button> <a href="admin.php">Link to Admin dashboard</a>
+                                    <button class="btn btn-custom" type="submit" id="submitSingIn" name="submitSingIn"><a href="admin.php" style="color: white">Login</a></button>
                                 </div>
                             </form>
                         </div>
+                    </div>
+                    <div class="col-md-4">
+
                     </div>
                 </div>
             </div>

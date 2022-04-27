@@ -66,7 +66,9 @@
                             <a href="admin.php" class="nav-item nav-link"><i class="fa fa-home"></i></a>                                                        
                             <a href="studentman.php" class="nav-item nav-link">Students</a>
                             <a href="employeeman.php" class="nav-item nav-link">Job Seekers</a>
-                            <a href="employerman.php" class="nav-item nav-link">Jobs</a>
+                            <a href="employerman.php" class="nav-item nav-link">Employers</a>
+                            <a href="studentman.php" class="nav-item nav-link">Universities</a>
+                            <a href="studentman.php" class="nav-item nav-link">Coursers</a>
                         </div>
                         <div class="ml-auto">
                             <a class="btn btn-custom" href="../index.php">Log Out</a>

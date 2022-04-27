@@ -30,6 +30,59 @@
         <?php include('adminHeader.php'); ?>
         <!-- footer End -->
         
+        <!-- Page Header Start -->
+        <div class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2>Employers</h2>
+                    </div>
+                    <div class="col-12">
+                        <a href="admin.php">Home</a>
+                        <a href="#">Employers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Page Header End -->
+
+        <!-- Students Start -->
+        <div class="service">
+            <div class="container">
+                <div class="section-header text-center">
+                    <p>Employers</p>
+                    <h2>Employers Job Opportunities</h2>
+                </div>
+                <div class="row">
+                    <table class="col-12">
+                        <tbody>
+                            <tr>
+                            <th>Date</th> <th>Position</th> <th>Organization</th> <th>Salary Range</th> <th>Contact Name</th> <th>Contact Phone</th> <th>Contact Email</th> <th>Location</th> <th>[ Attachments ]</th>
+                            </tr>
+                            <tr>
+                                <td>01/01/2022</td> <td>Software Developer</td> <td>SARS</td> <td>1.50 to 2.00</td> <td>Matome Moagi</td> <td>065 854 6617</td> <td>moagimv@gmail.com</td> <td>Pretoria</td> <td><button class="btn btn-custom">Download</button></td>
+                            </tr>
+                            <tr>
+                                <td>02/01/2022</td> <td>Software Developer</td> <td>SARS</td> <td>1.50 to 2.00</td> <td>Matome Moagi</td> <td>065 854 6617</td> <td>moagimv@gmail.com</td> <td>Pretoria</td> <td><button class="btn btn-custom">Download</button></td>
+                            </tr>
+                            <tr>
+                                <td>03/01/2022</td> <td>Software Developer</td> <td>SARS</td> <td>1.50 to 2.00</td> <td>Matome Moagi</td> <td>065 854 6617</td> <td>moagimv@gmail.com</td> <td>Pretoria</td> <td><button class="btn btn-custom">Download</button></td>
+                            </tr>
+                            <tr>
+                                <td>04/01/2022</td> <td>Software Developer</td> <td>SARS</td> <td>1.50 to 2.00</td> <td>Matome Moagi</td> <td>065 854 6617</td> <td>moagimv@gmail.com</td> <td>Pretoria</td> <td><button class="btn btn-custom">Download</button></td>
+                            </tr>
+                            <tr>
+                                <td>05/01/2022</td> <td>Software Developer</td> <td>SARS</td> <td>1.50 to 2.00</td> <td>Matome Moagi</td> <td>065 854 6617</td> <td>moagimv@gmail.com</td> <td>Pretoria</td> <td><button class="btn btn-custom">Download</button></td>
+                            </tr>
+                            <tr>
+                                <td>06/01/2022</td> <td>Software Developer</td> <td>SARS</td> <td>1.50 to 2.00</td> <td>Matome Moagi</td> <td>065 854 6617</td> <td>moagimv@gmail.com</td> <td>Pretoria</td> <td><button class="btn btn-custom">Download</button></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <!-- Students End -->
     
         <!-- footer Start-->
         <?php include('adminFooter.php'); ?>

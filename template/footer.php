@@ -11,11 +11,11 @@
                             <p><i class="fa fa-phone-alt"></i>+27 (012) 383-2136</p>
                             <p><i class="fa fa-envelope"></i>info@borderlessrecruitment.co.za</p>
                             <div class="footer-social">
-                                <a class="btn" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn" href=""><i class="fab fa-youtube"></i></a>
-                                <a class="btn" href=""><i class="fab fa-instagram"></i></a>
-                                <a class="btn" href=""><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn" href="#"><i class="fab fa-twitter"></i></a>
+                                <a class="btn" href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn" href="#"><i class="fab fa-youtube"></i></a>
+                                <a class="btn" href="#"><i class="fab fa-instagram"></i></a>
+                                <a class="btn" href="#"><i class="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
                     </div>
@@ -31,16 +31,16 @@
                         <div class="footer-link">
                             <h2>Useful Links</h2>
                             <a href="admin/login.php">Terms of use</a>
-                            <a href="">Privacy policy</a>
-                            <a href="">Cookies</a>
-                            <a href="">Help</a>
-                            <a href="">FQAs</a>
+                            <a href="#">Privacy policy</a>
+                            <a href="#">Cookies</a>
+                            <a href="#">Help</a>
+                            <a href="#">FQAs</a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="container copyright">
-                <p>&copy; <a href="#">www.borderlessrecruitment.co.za</a>, All Right Reserved. Designed By <a href="https://mmstech.co.za">MMS Technologies</a></p>
+                <p>&copy; <a href="http://www.borderlessrecruitment.co.za/">www.borderlessrecruitment.co.za</a>, All Right Reserved. Designed By <a href="https://mmstech.co.za">MMS Technologies</a></p>
             </div>
         </div>
         <!-- Footer End -->

@@ -29,6 +29,63 @@
         <!-- footer Start-->
         <?php include('adminHeader.php'); ?>
         <!-- footer End -->
+
+        <!-- Page Header Start -->
+        <div class="page-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2>Students</h2>
+                    </div>
+                    <div class="col-12">
+                        <a href="admin.php">Home</a>
+                        <a href="#">Students</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Page Header End -->
+
+        <!-- Students Start -->
+        <div class="service">
+            <div class="container">
+                <div class="section-header text-center">
+                    <p>Students</p>
+                    <h2>Student Applications</h2>
+                </div>
+                <div class="row">
+                    <table class="col-12">
+                        <tbody>
+                            <tr>
+                            <th>Date</th> <th>First Name</th> <th>Last Name</th> <th>Email</th> <th>Phone</th> <th>Origin Country</th> <th>Study Country</th> <th>Study Field/Course</th> <th>[ Attachments ]</th>
+                            </tr>
+                            <tr>
+                                <td>01/01/2022</td> <td>Matome</td> <td>Moagi</td> <td>moagimv@gmail.com</td> <td>065 854 6617</td> <td>South Africa</td> <td>South Africa</td> <td>B-Tech: Information Technology</td> <td><button class="btn btn-custom">Download</button></td>
+                            </tr>
+                            <tr>
+                                <td>02/01/2022</td> <td>Matome</td> <td>Moagi</td> <td>moagimv@gmail.com</td> <td>065 854 6617</td> <td>South Africa</td> <td>South Africa</td> <td>B-Tech: Information Technology</td> <td><button class="btn btn-custom">Download</button></td>
+                            </tr>
+                            <tr>
+                                <td>03/01/2022</td> <td>Matome</td> <td>Moagi</td> <td>moagimv@gmail.com</td> <td>065 854 6617</td> <td>South Africa</td> <td>South Africa</td> <td>B-Tech: Information Technology</td> <td><button class="btn btn-custom">Download</button></td>
+                            </tr>
+                            <tr>
+                                <td>04/01/2022</td> <td>Matome</td> <td>Moagi</td> <td>moagimv@gmail.com</td> <td>065 854 6617</td> <td>South Africa</td> <td>South Africa</td> <td>B-Tech: Information Technology</td> <td><button class="btn btn-custom">Download</button></td>
+                            </tr>
+                            <tr>
+                                <td>05/01/2022</td> <td>Matome</td> <td>Moagi</td> <td>moagimv@gmail.com</td> <td>065 854 6617</td> <td>South Africa</td> <td>South Africa</td> <td>B-Tech: Information Technology</td> <td><button class="btn btn-custom">Download</button></td>
+                            </tr>
+                            <tr>
+                                <td>07/01/2022</td> <td>Matome</td> <td>Moagi</td> <td>moagimv@gmail.com</td> <td>065 854 6617</td> <td>South Africa</td> <td>South Africa</td> <td>B-Tech: Information Technology</td> <td><button class="btn btn-custom">Download</button></td>
+                            </tr>
+                            <tr>
+                                <td>08/01/2022</td> <td>Matome</td> <td>Moagi</td> <td>moagimv@gmail.com</td> <td>065 854 6617</td> <td>South Africa</td> <td>South Africa</td> <td>B-Tech: Information Technology</td> <td><button class="btn btn-custom">Download</button></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <!-- Students End -->
     
         <!-- footer Start-->
         <?php include('adminFooter.php'); ?>
