@@ -11,7 +11,7 @@
         $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
         // sql to create table
-        $sql = "CREATE TABLE students (
+        $sql = "CREATE TABLE Student (
             id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
             firstname VARCHAR(50) NOT NULL,
             lastname VARCHAR(50) NOT NULL,
@@ -28,7 +28,7 @@
 
         // use exec() because no results are returned
         $conn->exec($sql);
-        echo "Table students created successfully"; //uncomment this once table generation success is established
+        echo "Table Student created successfully"; //uncomment this once table generation success is established
     } catch(PDOException $e) {
         echo $sql . "<br>" . $e->getMessage(); //uncomment this once table generation failure is established
     }
