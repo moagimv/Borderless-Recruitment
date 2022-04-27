@@ -24,7 +24,7 @@
 
         // use exec() because no results are returned
         $conn->exec($sql);
-        echo "Table Oppotunities created successfully"; //uncomment this once table generation success is established
+        echo "Table Course created successfully"; //uncomment this once table generation success is established
     } catch(PDOException $e) {
         echo $sql . "<br>" . $e->getMessage(); //uncomment this once table generation failure is established
     }
