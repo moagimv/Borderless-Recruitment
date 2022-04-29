@@ -102,7 +102,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-South-Africa.jpg" alt="Image">
+                            <img src="img/Country-South-Africa1.jpg" alt="Image">
                         </div>
                     </div>                    
                 </div>
@@ -116,7 +116,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-South-Africa.jpg" alt="Image">
+                            <img src="img/Country-South-Africa2.jpg" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -136,7 +136,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>SS
         </div>
         <!-- How much does it cost  End --> 
 
@@ -156,7 +156,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-South-Africa.jpg" alt="Image">
+                            <img src="img/Country-South-Africa3.jpg" alt="Image">
                         </div>
                     </div>
                 </div>
@@ -170,7 +170,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-South-Africa.jpg" alt="Image">
+                            <img src="img/Country-South-Africa4.jpg" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">

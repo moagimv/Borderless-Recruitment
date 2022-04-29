@@ -100,7 +100,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Barbados.jpg" alt="Image">
+                            <img src="img/Country-Barbados2.jpg" alt="Image">
                         </div>
                     </div>                    
                 </div>
@@ -114,7 +114,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Barbados.jpg" alt="Image">
+                            <img src="img/Country-Barbados3.jpg" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -150,7 +150,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Barbados.jpg" alt="Image">
+                            <img src="img/Country-Barbados4.jpg" alt="Image">
                         </div>
                     </div>
                 </div>
@@ -164,7 +164,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Barbados.jpg" alt="Image">
+                            <img src="img/Country-Barbados1.jpg" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">

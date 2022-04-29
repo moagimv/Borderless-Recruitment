@@ -120,7 +120,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Germany.jpg" alt="Image">
+                            <img src="img/Country-Germany1.jpg" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -164,7 +164,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Germany.jpg" alt="Image">
+                            <img src="img/Country-Germany2.jpg" alt="Image">
                         </div>
                     </div>
                 </div>
@@ -178,7 +178,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Germany.jpg" alt="Image">
+                            <img src="img/Country-Germany3.jpg" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">

@@ -104,7 +104,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Dubai.jpg" alt="Image">
+                            <img src="img/Country-Dubai4.jpg" alt="Image">
                         </div>
                     </div>                    
                 </div>
@@ -118,7 +118,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Dubai.jpg" alt="Image">
+                            <img src="img/Country-Dubai1.jpg" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -157,7 +157,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Dubai.jpg" alt="Image">
+                            <img src="img/Country-Dubai2.jpg" alt="Image">
                         </div>
                     </div>
                 </div>
@@ -171,7 +171,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Dubai.jpg" alt="Image">
+                            <img src="img/Country-Dubai3.jpg" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">

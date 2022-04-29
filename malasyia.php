@@ -101,7 +101,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Malaysia.jpg" alt="Image">
+                            <img src="img/Country-Malaysia1.jpg" alt="Image">
                         </div>
                     </div>                    
                 </div>
@@ -115,7 +115,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Malaysia.jpg" alt="Image">
+                            <img src="img/Country-Malaysia2.jpg" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -151,7 +151,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Malaysia.jpg" alt="Image">
+                            <img src="img/Country-Malaysia3.jpg" alt="Image">
                         </div>
                     </div>
                 </div>
@@ -165,7 +165,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Malaysia.jpg" alt="Image">
+                            <img src="img/Country-Malaysia4.jpg" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -212,7 +212,7 @@
         <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
         <script src="lib/easing/easing.min.js"></script>
-        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="lib/owlSSScarousel/owl.carousel.min.js"></script>
         <script src="lib/waypoints/waypoints.min.js"></script>
         <script src="lib/counterup/counterup.min.js"></script>
         
