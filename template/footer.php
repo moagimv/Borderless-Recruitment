@@ -30,10 +30,10 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="footer-link">
                             <h2>Useful Links</h2>
-                            <a href="admin/login.php">Terms of use</a>
+                            <a href="termsandconditions.php">Terms of use</a>
                             <a href="#">Privacy policy</a>
                             <a href="#">Cookies</a>
-                            <a href="#">Help</a>
+                            <a href="admin/login.php">Help</a>
                             <a href="#">FQAs</a>
                         </div>
                     </div>

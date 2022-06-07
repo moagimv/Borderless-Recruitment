@@ -92,7 +92,7 @@
     <!-- Service End -->
     
     <!-- Testimonials Start-->
-    <?php include('template/testimonials.php'); ?>
+    <!--?php include('template/testimonials.php'); ?-->
     <!-- Testimonials End -->
 
         <!-- footer Start-->

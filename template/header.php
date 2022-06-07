@@ -77,6 +77,7 @@
                                     <a href="poland.php" class="dropdown-item"><img src="img/poland.png" width="20%" height="20%">Poland</a>
                                     <a href="malasyia.php" class="dropdown-item"><img src="img/malasyia.png" width="20%" height="20%">Malasyia</a>
                                     <a href="barbados.php" class="dropdown-item"><img src="img/barbados.png" width="20%" height="20%">Barbados</a>
+                                    <a href="unitedkingdom.php" class="dropdown-item"><img src="img/unitedkingdom.png" width="20%" height="20%">United Kingdom</a>
                                 </div>
                             </div>
                             <div class="nav-item dropdown">
@@ -93,7 +94,7 @@
                             <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Socials</a>
                                 <div class="dropdown-menu">
-                                    <a href="blog.php" class="dropdown-item">Blog</a>
+                                    <!--a href="blog.php" class="dropdown-item">Blog</a-->
                                     <a href="single.php" class="dropdown-item">News & Articles</a>
                                     <a href="price.php" class="dropdown-item">Events</a>
                                 </div>

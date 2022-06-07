@@ -92,7 +92,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-header text-left">
-                            <h3><strong>The Education System in France</strong></h3>
+                            <h3 style="color: white;"><strong>The Education System in France</strong></h3>
                         </div>
                         <div class="about-content">
                             <p style="color: white;"> 
@@ -143,11 +143,11 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-header text-left">
-                            <h3><strong>Tourist Attractions in France</strong></h3>
+                            <h3 style="color: white;" ><strong>Tourist Attractions in France</strong></h3>
                         </div>
                         <div class="about-content">
                             <p style="color: white;"> 
-                                France offers endless tourist attractions. Discover this fascinating and diverse country by visiting <a href="https://www.france.fr/en">Explore France</a>
+                                France offers endless tourist attractions. Discover this fascinating and diverse country by visiting <a style="color: blue;" href="https://www.france.fr/en">Explore France</a>
                             </p>
                         </div>
                     </div>
@@ -199,7 +199,7 @@
         <!-- Visa Application End --> 
 
         <!-- Testimonials Start-->
-        <?php include('template/testimonials.php'); ?>
+        <!--?php include('template/testimonials.php');?-->
         <!-- Testimonials End -->
 
         <!-- footer Start-->

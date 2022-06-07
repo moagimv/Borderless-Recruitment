@@ -91,7 +91,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-header text-left">
-                            <h3><strong>The Education System in Malasyia</strong></h3>
+                            <h3 style="color: white;" ><strong>The Education System in Malasyia</strong></h3>
                         </div>
                         <div class="about-content">
                             <p style="color: white;"> 
@@ -141,11 +141,11 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-header text-left">
-                            <h3><strong>Tourist Attractions in Malasyia</strong></h3>
+                            <h3 style="color: white;"><strong>Tourist Attractions in Malasyia</strong></h3>
                         </div>
                         <div class="about-content">
                             <p style="color: white;"> 
-                                Malaysia is a country where culture, food, and nature thrives at every corner. One of Malaysia's most popular and iconic landmark is the Petronas Towers in Kuala Lumpur. To know more about attractions in Malaysia visit <a href="https://www.malaysia.travel/">Malaysia Travel</a>
+                                Malaysia is a country where culture, food, and nature thrives at every corner. One of Malaysia's most popular and iconic landmark is the Petronas Towers in Kuala Lumpur. To know more about attractions in Malaysia visit <a style="color: blue;" href="https://www.malaysia.travel/">Malaysia Travel</a>
                             </p>
                         </div>
                     </div>
@@ -193,7 +193,7 @@
         <!-- Visa Application End --> 
 
         <!-- Testimonials Start-->
-        <?php include('template/testimonials.php'); ?>
+        <!--?php include('template/testimonials.php'); ?-->
         <!-- Testimonials End -->
 
         <!-- footer Start-->

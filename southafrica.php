@@ -92,11 +92,13 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-header text-left">
-                            <h3><strong>The Education System in South Africa</strong></h3>
+                            <h3 style="color: white;"><strong>The Education System in South Africa</strong></h3>
                         </div>
                         <div class="about-content">
                             <p style="color: white;"> 
-                                Information
+                                South Africa’s tertiary education system is the most extensive and highest quality on the African continent.  The higher education system in South Africa gives students more options in terms of the type of higher education institutions to study at; for example students can study at the traditional universities, universities of technology or comprehensive universities.</br>
+                                The Education in South Africa is one of the priority areas, that is why the government is spending 20 percent of its budget on education, or 6.4 percent of gross domestic product (GDP) (considerably more than many other emerging market economies).</br>
+                                The academic calendar in South Africa starts in early February and goes to late November. Two semesters are typical with school vacation beginning early June to mid-July. Most Bachelor degree programs require three years of study, although an extra year to complete a research thesis is also available. Entry requirements in South Africa vary from university to university.</br>
                             </p>
                         </div>
                     </div>
@@ -146,11 +148,11 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-header text-left">
-                            <h3><strong>Tourist Attractions in South Africa</strong></h3>
+                            <h3 style="color: white;"><strong>Tourist Attractions in South Africa</strong></h3>
                         </div>
                         <div class="about-content">
                             <p style="color: white;"> 
-                                South Africa is renowned for its varied topography, great natural beauty, and cultural diversity. The country is bursting with wonderful wildlife, beautiful beaches and lush winelands, for more information about South Africa visit this link <a href="https://www.southafrica.net/za/en/">Tourism South Africa</a>
+                                South Africa is renowned for its varied topography, great natural beauty, and cultural diversity. The country is bursting with wonderful wildlife, beautiful beaches and lush winelands, for more information about South Africa visit this link <a style="color: blue;" href="https://www.southafrica.net/za/en/">Tourism South Africa</a>
                             </p>
                         </div>
                     </div>
@@ -207,7 +209,7 @@
                                 </ul>                     
                             </ul>
                             <p>
-                                <strong>For more details on study/student visa click on this link: <a href="http://www.vfsglobal.com/dha/southafrica/">http://www.vfsglobal.com/dha/southafrica/</a></strong> <br />
+                                <strong>For more details on study/student visa click on this link: <a style="color: blue;" href="http://www.vfsglobal.com/dha/southafrica/">http://www.vfsglobal.com/dha/southafrica/</a></strong> <br />
                                 For the VFS helpline, please contact VFS on: info.dhasa@vfshelpline.com <br />
                                 <strong>Please note: </strong> <br />
                                 While we are updating this information to the best of our knowledge, requirements for studying in South Africa are subject to change and each application is treated as an individual case. Always make inquiries before traveling to South Africa.
@@ -221,7 +223,7 @@
         <!-- Visa Application End --> 
 
         <!-- Testimonials Start-->
-        <?php include('template/testimonials.php'); ?>
+        <!--?php include('template/testimonials.php'); ?-->
         <!-- Testimonials End -->
 
         <!-- footer Start-->

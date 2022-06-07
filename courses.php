@@ -52,7 +52,21 @@
                    <p style="text-align: center;">Explore Courses</p>
                     <h3 style="text-align: center;"><strong>Available Universities and their Courses/Programmes</strong></h3>
                 </div>
-                <div class="row">               
+                   <!--Accodion start-->
+                   </div class="accordion">
+                        <div>
+                            <input type="radio" name="example" id="section1" name="section1" class="accordion__input">
+                            <label style="color: red;" for="section1" class="accordion__lable"> section1 </label>
+                            <div class="accordion__content">
+                                <p>heloihbj,d nsjikmkjhbnjgj jhgkikl</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Accodion End--> 
+
+                <div class="row">  
+                    
+
                     <table>
                         <tbody>
                             <tr>

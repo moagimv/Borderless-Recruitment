@@ -18,11 +18,12 @@
                                 <h3><a href="price.php">Event 1</a></h3>
                                 <p>
                                     <strong>Details</strong><br />
-                                    Venue: event Venue<br />
-                                    Time: start and end time<br />
-                                    Theme: the Theme<br />
-                                    Requirements: the Requirements<br />
-                                    Topic: the topic 
+                                    Venue: Webinar<br />
+                                    Time: 15:00 - 3:45 (CEST)<br />
+                                    Date: 08 June 2022 <br />
+                                    Requirements: Webinar<br />
+                                    link: <a tyle="color: blue;" href="https://www.iu.org/events/get-to-know-iu-08-06-2022-24/" >https://www.iu.org/events/get-to-know-iu-08-06-2022-24/</a></br>
+                                    Topic: Get to Know IU
                                 </p>
                             </div>
                         </div>
@@ -39,11 +40,12 @@
                                 <h3><a href="price.php">Event 2</a></h3>
                                 <p>
                                     <strong>Details</strong><br />
-                                    Venue: event Venue<br />
-                                    Time: start and end time<br />
-                                    Theme: the Theme<br />
-                                    Requirements: the Requirements<br />
-                                    Topic: the topic 
+                                    Venue: Webinar<br />
+                                    Time: 15:00 - 3:45 (CEST)<br />
+                                    Date: 15 June 2022<br />
+                                    Requirements: Webinar<br />
+                                    link: <a tyle="color: blue;" href="https://www.iu.org/events/get-to-know-iu-africa-15-06-2022-25/" >https://www.iu.org/events/get-to-know-iu-africa-15-06-2022-25/</a>
+                                    Topic: Get to know IU (Africa) 
                                 </p>
                             </div>
                         </div>
@@ -60,11 +62,31 @@
                                 <h3><a href="price.php">Event 3</a></h3>
                                 <p>
                                     <strong>Details</strong><br />
-                                    Venue: event Venue<br />
-                                    Time: start and end time<br />
-                                    Theme: the Theme<br />
-                                    Requirements: the Requirements<br />
-                                    Topic: the topic 
+                                    Time: 15:00 - 16:00<br />
+                                    Date: 07 July 2022<br />
+                                    link: <a tyle="color: blue;" href=" https://www.studyin-uk.com/events/registration/685/ " > https://www.studyin-uk.com/events/registration/685/ </a>
+                                    Topic: Vitual Open Day
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <a href="price.php"><img src="img/blog-3.jpg" alt="Image"></a>
+                                <div class="meta-date">
+                                    <a href="price.php" style="color: white;"><span>Event 3</span></a>
+                                </div>
+                            </div>
+                            <div class="blog-text">
+                                <h3><a href="price.php">Event 3</a></h3>
+                                <p>
+                                    <strong>Details</strong><br />
+                                    Time: 11:00 - 12:00<br />
+                                    Date: 22 July 2022<br />
+                                    link: <a tyle="color: blue;" href="https://www.studyin-uk.com/events/registration/673/ " > https://www.studyin-uk.com/events/registration/673/ </a>
+                                    Topic: facebook Live with the University of Strathclyde
                                 </p>
                             </div>
                         </div>

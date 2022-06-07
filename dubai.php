@@ -93,7 +93,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-header text-left">
-                            <h3><strong>The Education System in Dubai</strong></h3>
+                            <h3 style="color: white;" ><strong>The Education System in Dubai</strong></h3>
                         </div>
                         <div class="about-content">
                             <p style="color: white;"> 
@@ -147,11 +147,11 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-header text-left">
-                            <h3><strong>Tourist Attractions in Dubai</strong></h3>
+                            <h3 style="color: white;" ><strong>Tourist Attractions in Dubai</strong></h3>
                         </div>
                         <div class="about-content">
                             <p style="color: white;"> 
-                                Dubai is an ever-changing destination with something new every time you visit. There are number of recognized iconic landmarks that will take your breath away. Explore the country here on <a href="https://www.visitdubai.com/en">Visit Dubai</a>
+                                Dubai is an ever-changing destination with something new every time you visit. There are number of recognized iconic landmarks that will take your breath away. Explore the country here on <a style="color: blue;" href="https://www.visitdubai.com/en">Visit Dubai</a>
                             </p>
                         </div>
                     </div>
@@ -211,7 +211,7 @@
         <!-- Visa Application End --> 
 
         <!-- Testimonials Start-->
-        <?php include('template/testimonials.php'); ?>
+        <!--?php include('template/testimonials.php'); ?-->
         <!-- Testimonials End -->
 
         <!-- footer Start-->

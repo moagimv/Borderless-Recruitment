@@ -53,7 +53,9 @@
             <div class="section-header text-center">
                 <p>Job Seeker Services</p>
                 <h2>Premium Recruitment Services</h2>
+               
             </div>
+            <p>According to the Statistics South Africa (StatsSA) Quarterly Labour Force Survey (QLFS), the South African unemployment rate among the youth is 63.9%, the highest in the whole world. With this sad reality facing the SA Youth, it is about time the SA youth considers employment opportunities beyond the SA borders.</p>
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
@@ -124,6 +126,19 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
+                        <i class="fa fa-book" style="text-align: center;"></i>
+                        <h3>Millions of job, but shortage of workers</h3>
+                        <p>
+                            The Covid-19 pandemic has caused increased the labour shortages in countries such as Australia, Canada, United Kingdom, United States and New Zealand forcing them to look outside their borders for the skills that are needed in their countries. 
+                            <br /><br />
+                            If you are a professional in <strong> Care, Education, Manufacturing, Engineering & IT, Construction, Transportation or Skilled Trades</strong> let us help you find a job in one of these countries.
+ 
+                        </p>
+                        <a class="btn btn-custom" href="employmentRegister.php">Register</a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="service-item">
                         <i class="fa fa-users" style="text-align: center;"></i>
                         <h3>Registration with Professional Bodies</h3>
                         <p>
@@ -131,6 +146,36 @@
                             <br /><br />
                             In some countries foreign candidates are expected to write and pass IELTS, If you want us to help you with IELTS bookings, <a href="#">send your request here</a>
                         </p>
+                    </div>
+                </div>
+                <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="service-item">
+                        <i class="fa fa-book" style="text-align: center;"></i>
+                        <h3>What are the key traits and skills necessary for overseas jobs?</h3>
+                        <p>
+                            Overseas work is not for everyone, you need to develop certain skills and mind-set in order to work in a foreign country. Firstly you must have a will to learn the language and culture of the country you want to work in. The following skills will come handy when looking for a job in a foreign country.</br>
+                            <ul>
+                                <li>Flexibility</li>
+                                <li>Sensitivity (to other cultures)</li>
+                                <li>Adaptability</li>
+                                <li>Risk-taking</li>
+                                <li>Cooperative</li>
+                                <li>Cooperative</li>
+                                <li>Adventurous</li>
+                                
+                            </ul>
+                            We also find that people who successful find jobs abroad are those who simply tick the right boxes like:
+                            <ul>
+                                <li>having a real motivation to move overseas, and being truly committed to look for jobs</li>
+                                <li>working hand-in-hand with us</li>
+                                <li>having the right qualification and/or experience for the job</li>
+                                <li>personalising each and every application to the position applied for</li>
+                            </ul>
+                            <br /><br />
+                            
+                        </p>
+                        <a class="btn btn-custom" href="employmentRegister.php">Register</a>
                     </div>
                 </div>
             </div>

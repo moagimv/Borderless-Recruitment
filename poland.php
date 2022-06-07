@@ -94,7 +94,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-header text-left">
-                            <h3><strong>The Education System in Poland</strong></h3>
+                            <h3 style="color: white;"><strong>The Education System in Poland</strong></h3>
                         </div>
                         <div class="about-content">
                             <p style="color: white;"> 
@@ -149,14 +149,14 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-header text-left">
-                            <h3><strong>Tourist Attractions in Poland</strong></h3>
+                            <h3 style="color: white;"><strong>Tourist Attractions in Poland</strong></h3>
                         </div>
                         <div class="about-content">
                             <p style="color: white;"> 
                                 <strong>Entertainment</strong> <br />
                                 Different cities in Poland offer various sporting and cultural activities. In summer there is swimming, kayaking or water skiing and in winter there is ice-skating. Poland cities offer numerous clubs, cinemas, theatres, museums, fitness facilities and a variety of events and festivals. Every day there is something interesting to do. <br />
                                 <strong>Attractions</strong> <br />
-                                You will not be doing justice to yourself by being in Poland and not experiencing the beauty of the country. If you want more information about tourist attraction in Poland, visit <a href="https://www.poland.travel/en">Poland Travel</a>
+                                You will not be doing justice to yourself by being in Poland and not experiencing the beauty of the country. If you want more information about tourist attraction in Poland, visit <a style="color: blue;" href="https://www.poland.travel/en">Poland Travel</a>
                             </p>
                         </div>
                     </div>
@@ -185,7 +185,7 @@
                         </div>
                         <div class="about-content">
                             <p> 
-                                All the non-EU nationals who are accepted to study in Poland are required to apply for study visa in their own country of origin prior to coming to Poland. You can contact the Polish embassy in your country for more information on study visa. Here is the list of Polish embassies: <a href="https://secure.e-konsulat.gov.pl/">https://secure.e-konsulat.gov.pl/</a> 
+                                All the non-EU nationals who are accepted to study in Poland are required to apply for study visa in their own country of origin prior to coming to Poland. You can contact the Polish embassy in your country for more information on study visa. Here is the list of Polish embassies: <a style="color: blue;" href="https://secure.e-konsulat.gov.pl/">https://secure.e-konsulat.gov.pl/</a> 
                                 <br /><br /> 
                                 The type of visa to apply for students is a national visa (type "D"). This visa allows a foreign national to enter Poland and stay within its borders for up to one year. A national visa also entitles foreign nationals to travel to other countries of the Schengen Area for the maximum period of three months within a six month period.
                                 <br /><br /> 
@@ -224,7 +224,7 @@
         <!-- Visa Application End --> 
 
         <!-- Testimonials Start-->
-        <?php include('template/testimonials.php'); ?>
+        <!--?php include('template/testimonials.php'); ?-->
         <!-- Testimonials End -->
 
         <!-- footer Start-->

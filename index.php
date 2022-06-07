@@ -55,7 +55,7 @@
                     </div>
                     <div class="carousel-item">
                         <div class="carousel-img">
-                            <img src="img/slide-three.jpg" alt="Image">
+                            <img src="img/student.jpg" alt="Image">
                         </div>
                         <div class="carousel-text">
                             <h3>Student Services</h3>
@@ -374,12 +374,12 @@
     <!-- Service End -->
 
         <!-- Blogs Start-->
-        <?php include('template/blog.php'); ?>
+        <!--?php include('template/blog.php'); ?-->
         <!-- blogs End -->
 
         
         <!-- Testimonials Start-->
-        <?php include('template/testimonials.php'); ?>
+        <!--?php include('template/testimonials.php'); ?-->
         <!-- Testimonials End -->
 
         <!-- Partners Start-->

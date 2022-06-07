@@ -1,40 +1,47 @@
 <?php
-    //Start of creating a table (statement is executed once if the are no tables created)
-    $servername = "localhost";
-    $username = "root";
-    $password = "";
-    $dbname = "borderlessDB";
+    $servername = 'localhost';
+    $username = 'root';
+    $password = '';
+    $dbname = 'borderlessDB';   
+
+    //$Msg = '';
+    $sql = '';
 
     try {
-        $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
+
+        $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username);
         // set the PDO error mode to exception
         $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-        // sql to create table
-        $sql = "CREATE TABLE Student (
-            id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
-            firstname VARCHAR(50) NOT NULL,
-            lastname VARCHAR(50) NOT NULL,
-            email VARCHAR(50) NOT NULL,
-            phone VARCHAR(30) NOT NULL,
-            originCountry VARCHAR(50),
-            studyUniversity VARCHAR(50) NOT NULL,
-            studyCourse VARCHAR(50) NOT NULL,
-            copyOfID VARCHAR(50),
-            copyOfPassport VARCHAR(50),
-            copyOfResults VARCHAR(50),
-            reg_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP NOT NULL
-        )";
+        if(isset($_POST['submitStudentAppplication'])){
+        
+            //create student application
+            if(isset($_POST['f-name']) && isset($_POST['l-name']) && isset($_POST['email']) && isset($_POST['phone']) && isset($_POST['country']) && isset($_POST['university']) && isset($_POST['qualification']) && isset($_POST['identity']) && isset($_POST['passport']) && isset($_POST['results'])){
+                $fname = $_POST['f-name'];
+                $lname = $_POST['l-name'];
+                $email = $_POST['email'];
+                $phone = $_POST['phone'];
+                $country = $_POST['country'];
+                $university = $_POST['university'];
+                $qualification = $_POST['qualification'];
+                $identityCopy = $_POST['identity'];
+                $passport = $_POST['passport'];
+                $results = $_POST['results'];
 
-        // use exec() because no results are returned
-        $conn->exec($sql);
-        echo "Table Student created successfully"; //uncomment this once table generation success is established
+                $sql = 'INSERT INTO Student(firstname, lastname, email, phone, originCountry, studyUniversity, studyCourse, copyOfID, copyOfPassport, copyOfResults) VALUES(:fname, :lname, :email, :phone, :country, :university, :qualification, :identityCopy, :passport, :results)';
+                
+                $statement = $conn->prepare($sql);
+
+                if($statement->execute(['fname' => $fname, 'lname' => $lname, 'email' => $email, 'phone' => $phone,'country' => $country ,'university' => $university ,'qualification' => $qualification, 'identityCopy' => $identityCopy,'passport' => $passport,'results' => $results])){
+                    //$Msg = 'data inserted successfully';
+                    header('location: ../studentRegister.php?success');
+                }else{
+                    //$Msg = 'data coult not inserted successfully';
+                    header('location: ../studentRegister.php?error');
+                }
+            }
+        }
     } catch(PDOException $e) {
         echo $sql . "<br>" . $e->getMessage(); //uncomment this once table generation failure is established
     }
-
-    $conn = null;
-    //End of creating a table (statement is executed once if the are no tables created)
-
-
 ?>

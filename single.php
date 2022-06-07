@@ -57,35 +57,150 @@
                     <div class="col-lg-8">
                         <div class="single-content">
                             <img src="img/single.jpg" />
-                            <h2>Lorem ipsum dolor sit amet</h2>
+                            <h2>Newcastle University ranked 1st in UK by THE Impact Rankings</h2>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer molestie, lorem eu eleifend bibendum, augue purus mollis sapien, non rhoncus eros leo in nunc. Donec a nulla vel turpis consectetur tempor ac vel justo. In hac habitasse platea dictumst. Cras nec sollicitudin eros. Nunc eu enim non turpis sagittis rhoncus consectetur id augue. Mauris dignissim neque felis. Phasellus mollis mi a pharetra cursus. Maecenas vulputate augue placerat lacus mattis, nec ornare risus sollicitudin.
+                                <a style="color: blue;" href ="https://www.studyin-uk.com/profiles/university/newcastle/">Newcastle University</a> has been named the best university in the UK and 8th in the world for impact by the Times Higher Education Impact Rankings 2022.
                             </p>
                             <p>
-                                Mauris eu pulvinar tellus, eu luctus nisl. Pellentesque suscipit mi eu varius pulvinar. Aenean vulputate, massa eget elementum finibus, ipsum arcu commodo est, ut mattis eros orci ac risus. Suspendisse ornare, massa in feugiat facilisis, eros nisl auctor lacus, laoreet tempus elit dolor eu lorem. Nunc a arcu suscipit, suscipit quam quis, semper augue.
+                                The Impact Rankings are the world’s only ranking which measures universities’ contributions to the United Nations’ Sustainable Development Goals, which includes targets such as quality education, gender equality and affordable and clean energy.
                             </p>
                             <p>
-                                Quisque arcu nulla, convallis nec orci vel, suscipit elementum odio. Curabitur volutpat velit non diam tincidunt sodales. Nullam sapien libero, bibendum nec viverra in, iaculis ut eros.
+                             
+                                In total, 20 <a style="color: blue;" href ="https://www.studyin-uk.com/uk-study-info/university-rankings/ ">UK universities</a> 
+                                featured in the global top 100 - the most of any nation - including the
+                                <a style="color: blue;" href ="https://www.studyin-uk.com/profiles/university/manchester/"> University of Manchester</a>  (9th),
+                                 <a style="color: blue;" href ="https://www.studyin-uk.com/profiles/university/glasgow/ ">University of Glasgow</a>(19th),
+                                <a style="color: blue;" href ="https://www.studyin-uk.com/profiles/university/leicester/ "> University of Leicester</a>  (23rd) 
+                                and <a style="color: blue;" href ="https://www.studyin-uk.com/profiles/university/kings-college/ "> King's College London</a> (24th).  
+                            
                             </p>
-                            <h3>Lorem ipsum dolor sit amet</h3>
-                            <p>
-                                Vestibulum sit amet ullamcorper sem. Integer hendrerit elit eget purus sodales maximus. Quisque ac nulla arcu. Morbi venenatis arcu ac arcu cursus pharetra. Morbi sit amet viverra augue, ac ultricies libero. Praesent elementum lectus mi, eu elementum urna venenatis sed. Donec auctor purus ut mattis feugiat. Integer mi erat, consectetur sed tincidunt vitae, sagittis elementum libero. Vivamus a mauris consequat, hendrerit lectus in, fermentum libero. Integer mattis bibendum neque et porttitor.
-                            </p>
-                            <p>
-                                Mauris quis arcu finibus, posuere dolor eu, viverra felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In porta, ex vitae accumsan facilisis, nisi tellus dictum metus, quis fringilla dui tellus in tellus. Praesent pharetra orci at vehicula posuere. Sed molestie fringilla lorem, vel imperdiet tortor blandit at. Quisque non ultrices lorem, eget rhoncus orci. Fusce porttitor placerat diam et mattis. Nam laoreet, ex eu posuere sollicitudin, sem tortor pellentesque ipsum, quis mattis purus lectus ut lacus. Integer eu risus ac est interdum scelerisque.
-                            </p>
-                            <h4>Lorem ipsum dolor sit amet</h4>
-                            <p>
-                                Praesent ultricies, mauris eget vestibulum viverra, neque lorem malesuada mauris, eget rhoncus lectus enim a lorem. Vivamus at vehicula risus, eget facilisis massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et posuere sapien. Fusce bibendum lorem sem, quis tincidunt felis mattis nec.
                             </p>
                             <p>
-                                Proin vel nulla purus. Nunc nec eros in nisi efficitur rutrum quis sed eros. Mauris felis dolor, rhoncus eget gravida vitae, pretium vel arcu. Cras blandit tellus eget tellus dictum venenatis. Sed ultricies bibendum dictum. Etiam facilisis erat id turpis tincidunt malesuada. Duis bibendum sapien eu condimentum sagittis. Proin nunc lorem, ullamcorper vel tortor sodales, imperdiet lacinia dui. Sed congue, felis id rhoncus varius, urna lacus imperdiet nunc, ut porttitor mauris mi quis mi. Integer rutrum est finibus metus eleifend scelerisque. Morbi auctor dignissim purus in interdum. Vestibulum eu dictum enim. Suspendisse et sem vitae velit feugiat facilisis.
+                                Professor Chris Day, Vice-Chancellor and President, Newcastle University, said: "We are absolutely delighted to be ranked first in the UK – and eighth in the world - in this year's Times Higher Education Impact Rankings. They represent the very best of what a University can be - working together to respond to urgent global challenges – and our performance today is a testament to the hard work and commitment of all colleagues and students at Newcastle University
                             </p>
                             <p>
-                                Nam sodales scelerisque nunc sed convallis. Vestibulum facilisis porta erat, sit amet pharetra tortor blandit id. Nunc velit tellus, consectetur sed convallis in, tincidunt finibus nulla. Integer vel ex in mauris tincidunt tincidunt nec sed elit. Etiam pretium lectus lectus, sed aliquet erat tristique euismod. Praesent faucibus nisl augue, ac tempus libero pellentesque malesuada. Vivamus iaculis imperdiet laoreet. Aliquam vel felis felis. Proin sed sapien erat. Etiam a quam et metus tempor rutrum. Curabitur in faucibus justo. Etiam imperdiet iaculis urna.
+                            Are you interested in studying at Newcastle University from September 2022?
+                            <a style="color: blue;" href ="https://www.studyin-uk.com/consultation/ ">Arrange a free consultation</a>  with SI-UK London to begin your UCAS application today.
+
+                            <h3>MAHE Dubai has been awarded the GCC Regional Champion (Asia Pacific) award for year 2020 by
+                                 CGMA Global University (CIMA)</h3>
+                            <p>
+                              We are happy to announce that MAHE Dubai has been awarded the GCC Regional Champion (Asia Pacific) award for year 2020 by CGMA Global University (CIMA). The award recognises university partners that trained CIMA’s Top Students. Results of these students are based on CIMA case study exams that were held in August & November 2020 and February & May 2021
                             </p>
+                            <p>
+                               Sponsored by the Association of International Certified Professional Accountants, the global accounting organisation representing CIMA and the American Institute of CPAs (AICPA), the annual CIMA Excellence Awards recognise institutions and individuals across the world going above and beyond to shape the next generation of Chartered Global Management Accountants and lead the accounting profession into the future
+                            </p>
+                            <p>
+                              We take this opportunity to appreciate Dr. Sunitha Prabhuram, Associate Head – UG Programmes, School of Business (SOB), Dr. Anantharaman, Assistant Professor – SOB for their continued efforts in establishing extremely valuable industry orientied partnerships like these.
+                            </p>
+
+                            <h4>With 23 countries yet to fully reopen schools, education risks becoming ‘greatest divider’ as COVID-19 pandemic enters third year</h4>
+                            <p><strong>Number of children dropping out of school poised to increase, emerging evidence shows</strong></p>
+                            <p>
+                                <strong>NEW YORK, 30 March 2022 –</strong> As the COVID-19 pandemic enters its third year, 23 countries – home to around 405 million schoolchildren – are yet to fully open schools, with many schoolchildren at risk of dropping out, according to a new UNICEF <a style="color: blue;" href="https://data.unicef.org/resources/are-children-really-learning-foundational-skills-report/">report</a> released today.
+                            </p>
+                            <p>
+                            <a style="color: blue;" href ="https://data.unicef.org/resources/are-children-really-learning-foundational-skills-report/ ">Are children really learning?</a> features country-level data on the impact of the COVID-19 pandemic and related school closures on children, as well as an updated analysis of the state of children’s learning before the pandemic. It points out that 147 million children missed more than half of their in-person schooling over the past 2 years. This amounts to 2 trillion hours of lost in-person learning globally. 
+
+                            </p>
+                            <p>
+                            “When children are not able to interact with their teachers and their peers directly, their learning suffers. When they are not able to interact with their teachers and peers at all, their learning loss may become permanent,” said Catherine Russell, UNICEF Executive Director. “This rising inequality in access to learning means that education risks becoming the greatest divider, not the greatest equalizer. When the world fails to educate its children, we all suffer.”
+                            </p>
+                            <p>
+                            In addition to data on learning loss, the report points to emerging evidence that shows many children did not return to school when their classrooms reopened. Data from Liberia show 43 per cent of students in public schools did not return when schools reopened in December 2020. The number of out-of-school children in South Africa tripled from 250,000 to 750,000 between March 2020 and July 2021. In Uganda, around 1 in 10 schoolchildren did not report back to school in January 2022 after schools were closed for two years. In Malawi, the dropout rate among girls in secondary education increased by 48 per cent, from 6.4 per cent to 9.5 per cent between 2020 and 2021. In Kenya, a survey of 4,000 adolescents aged 10-19 years found that 16 per cent of girls and 8 per cent of boys did not return when schools reopened.
+                            </p>
+                            
+                            <p>
+                              Out-of-school children are some of the most vulnerable and marginalized children in society. They are the least likely to be able to read, write or do basic math, and are cut off from the safety net that schools provide, which puts them at an increased risk of exploitation and a lifetime of poverty and deprivation.
+                            </p>
+                            <p>
+                            The report highlights that while out-of-school children suffer the greatest loss, pre-pandemic data from 32 countries and territories show a desperately poor level of learning, a situation that has likely been exacerbated by the scale of learning lost to the pandemic. In the countries analysed, the current pace of learning is so slow that it would take seven years for most schoolchildren to learn foundational reading skills that should have been grasped in two years, and 11 years to learn foundational numeracy skills.
+                            </p>
+                            <p>
+                            In many cases, there is no guarantee that schoolchildren learned the basics at all. In the 32 countries and territories examined, a quarter of Grade 8 schoolchildren – around 14 years old – did not have foundational reading skills and more than half did not have numeracy skills expected of a Grade 2 student, around 7 years old.
+
+                            </p>
+                            <p>
+                            “Even before the pandemic, the most marginalized children were being left behind. As the pandemic enters its third year, we can’t afford to go back to “normal.” We need a new normal: getting children into classrooms, assessing where they are in their learning, providing them with the intensive support they need to recover what they’ve missed, and ensuring that teachers have the training and learning resources they need. The stakes are too high to do anything less,” said Russell.
+                            </p>
+                            <p>
+                            <strong> Notes to editors: </strong>
+                            Sources: UIS, Uganda National Examination Board Study (2021)
+                            Out-of-school children are defined as children of primary- and secondary school-age not enrolled in education. This is different from the schoolchildren whose schools remain partially or fully closed due to COVID-19 restrictions.
+
+                            <a style="color: blue;" href ="https://www.unicef.org/press-releases/23-countries-yet-fully-reopen-schools-education-risks-becoming-greatest-divider ">UNICEF Website</a>
+
+
+
+                            <h4>TÜV NORD Certificate for UITM students</h4>
+                            <p><strong>Studies at UITM opens new horizons and provides endless opportunities.</strong></p>
+                            <p>
+                                <strong>Studying at UITM gives many opportunities of further personal development, as well as obtaining new skills and competences for students. Our University provides possibility of obtaining international certificates that are valuable on the labor market</strong> 
+                            </p>
+                            <p>
+                            Students of Management and Logistics are able to obtain prestigious and valued by employers certificates issued by The Association of Chartered Certified Accountants (ACCA) and
+                            <a style="color: blue;" href ="https://www.tuv-nord.com/pl/pl/home/ ">TÜV NORD</a> .
+                            </p>
+                            <p>
+                            During the studies, both bachelor’s and master’s degree students are able to confirm their competences by obtaining industry-specific TÜV NORD Poland certificates, which are highly recognized worldwide as a trademark of trust and quality. Thanks to that young ambitious people enrich their power on the labor market. As a result UITM students receive competitive advantage over students from different universities and they are highly appreciated as new employees in international companies that are located in our city of Rzeszów.
+                            </p>
+                            <p>
+                            In addition to data on learning loss, the report points to emerging evidence that shows many children did not return to school when their classrooms reopened. Data from Liberia show 43 per cent of students in public schools did not return when schools reopened in December 2020. The number of out-of-school children in South Africa tripled from 250,000 to 750,000 between March 2020 and July 2021. In Uganda, around 1 in 10 schoolchildren did not report back to school in January 2022 after schools were closed for two years. In Malawi, the dropout rate among girls in secondary education increased by 48 per cent, from 6.4 per cent to 9.5 per cent between 2020 and 2021. In Kenya, a survey of 4,000 adolescents aged 10-19 years found that 16 per cent of girls and 8 per cent of boys did not return when schools reopened.
+                            </p>
+                            <p><strong>The TÜV NORD Poland certificate is dedicated for people who want to: </strong></p>
+                            <ul>
+                             <li>obtain objective proof of their competences,</li>
+                             <li>increase your bargaining power in the game for your dream job or project,</li>
+                             <li>obtain confirmation of competences by impartial examiners with practical experience in a given area,</li>
+                             <li>make continuous improvement credible,</li>
+                             <li>strengthen your own brand with the support of recognizable industry certificates</li>
+                            </ul>
+                            <p><strong>Prestigious certificates at UITM </strong></p>
+                            <p>
+                            TÜV NORD Poland certificate is available for students of:</br></p>
+                            <ul>
+                            <li> <a style="color: blue;" href ="https://en.uitm.edu.eu/undergraduate-programmes/aviation-management/ ">Aviation Management</a>BA (Safety Management System)</li>
+                            <li><a style="color: blue;" href ="https://en.uitm.edu.eu/postgraduate-programmes/management/ ">International Business Management</a> MA (Process Management</li>
+                            </ul>
+                            <p>What is more Aviation Management programme offers also certificates from IATA and ARCport, more information about all available certificates <a style="color: blue;" href ="https://en.uitm.edu.eu/undergraduate-programmes/aviation-management/">HERE</a> . </p>
+                            </p>
+                            <p>
+                            The TÜV NORD concern has been operating on all continents for over 140 years. It has been operating on the Polish market for 26 years, remaining among the leaders in its industry. The Group provides services including in the field of system, people and product certification, technical and construction acceptance, system and business training, and EU consulting. We are glad that thanks to our collaboration many students can get valuable experience and obtain prestigious certificates that will provide them competitive advantage.
+                            </p>
+
+                           <h4>Ukrainian refugees get home fee status at English universities</h4>
+                            <p><strong>Move also means students fleeing conflict will have access to student support such as loans </strong></p>
+                            <p>
+                            Ukrainian refugees studying at English universities will face the same fee status as domestic students, it has been announced.</br>
+                           </p>
+                            <p>
+                            In a letter to higher education institutions, universities minister Michelle Donelan says the government is extending access to “HE student support, home fee status, [and] tuition fee caps” to Ukrainian refugees who had been given leave to stay in the UK.</br>
+                            </p>
+                            <p>
+                            It means Ukrainian undergraduates studying at English institutions will not be charged more than £9,250 a year – instead of international fees, which can be much higher – and will have access to student support such as loans.</br>
+                            </p>
+                            <p>
+                            “Access to student support is crucial in enabling [refugees] to attend education to improve their skills and enhance the ability of Ukrainians to contribute to the UK, or to the rebuilding of their home country,” Ms Donelan says in the letter.</br>
+                            </p>
+                            <p>Ukrainian refugees who have qualified to stay in the UK under one of the Home Office schemes will also not need to meet a three-year residency test for student support, she said.</p>
+                        
+                            <p>
+                            It follows <a style="color: blue;" href ="https://www.timeshighereducation.com/news/free-tuition-ukrainian-refugees-scottish-universities">similar measures</a>  announced in Scotland early this month, although due to Scottish students having their fees covered by the Holyrood government, Ukrainian refugees will be able to study there free of charge.
+                           </p>
+                           <p>
+                           The Westminster government also confirmed that English institutions will be able to access £4 million in funding across the 2022-23 year from the Office for Students to financially support Ukrainian students studying in the country.
+                           </p>
+                           <p>
+                            Steve West, president of Universities UK and vice-chancellor of the <a style="color: blue;" href ="https://www.timeshighereducation.com/world-university-rankings/university-west-england">University of the West of England</a> , said the body welcomed the announcements and that the funding “offers practical, financial support for Ukrainian students affected by the conflict who are already studying here, as well as those fleeing violence and terror.</br>
+                            </p>
+                            <p>
+                            “Our message to those individuals is simple: you are welcome here. The UK’s higher education sector can and must play a pivotal role in ensuring that Ukraine’s citizens, educational institutions and cultural capital can not only survive this crisis but emerge stronger.”
+                            simon.baker@timeshighereducation.com
+                            <a style="color: blue;" href ="https://www.timeshighereducation.com/news/ukrainian-refugees-get-home-fee-status-english-universities">World University Ranking</a>
+                            
+                          </p>
                         </div>
-                        <div class="single-tags">
+                        <!--div class="single-tags">
                             <a href="">National</a>
                             <a href="">International</a>
                             <a href="">Economics</a>
@@ -93,8 +208,8 @@
                             <a href="">Lifestyle</a>
                             <a href="">Technology</a>
                             <a href="">Trades</a>
-                        </div>
-                        <div class="single-related">
+                        </div-->
+                        <!--div class="single-related">
                             <h2>Related Post</h2>
                             <div class="owl-carousel related-slider">
                                 <div class="post-item">
@@ -146,9 +261,9 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div-->
 
-                        <div class="single-comment">
+                        <!--div class="single-comment">
                             <h2>3 Comments</h2>
                             <ul class="comment-list">
                                 <li class="comment-item">
@@ -175,7 +290,8 @@
                                             <h3><a href="">Josh Dunn</a></h3>
                                             <p><span>01 Jan 2045 at 12:00pm</span></p>
                                             <p>
-                                                Lorem ipsum dolor sit amet elit. Integer lorem augue purus mollis sapien, non eros leo in nunc. Donec a nulla vel turpis tempor ac vel justo. In hac platea dictumst. 
+                                                Lorem ipsum dolor sit amet elit. Integer lorem augue purus mollis sapien, non eros leo in nunc. 
+                                                Donec a nulla vel turpis tempor ac vel justo. In hac platea dictumst. 
                                             </p>
                                             <a class="btn" href="">Reply</a>
                                         </div>
@@ -199,8 +315,8 @@
                                     </ul>
                                 </li>
                             </ul>
-                        </div>
-                        <div class="comment-form">
+                        </div-->
+                        <!--div class="comment-form">
                             <h2>Leave a comment</h2>
                             <form>
                                 <div class="form-group">
@@ -224,12 +340,12 @@
                                     <input type="submit" value="Post Comment" class="btn btn-custom">
                                 </div>
                             </form>
-                        </div>
+                        </div-->
                     </div>
 
                     <div class="col-lg-4">
                         <div class="sidebar">
-                            <div class="sidebar-widget">
+                            <!--div class="sidebar-widget">
                                 <div class="single-bio">
                                     <div class="single-bio-img">
                                         <img src="img/user.jpg" />
@@ -248,7 +364,7 @@
                                         <a class="btn" href=""><i class="fab fa-linkedin-in"></i></a>
                                     </div>
                                 </div>
-                            </div>
+                            </div-->
                             
                             <div class="sidebar-widget">
                                 <div class="search-widget">
@@ -325,13 +441,13 @@
                                 </div>
                             </div>
 
-                            <div class="sidebar-widget">
+                            <!--div class="sidebar-widget">
                                 <div class="image-widget">
                                     <a href="#"><img src="img/blog-1.jpg" alt="Image"></a>
                                 </div>
-                            </div>
+                            </div-->
 
-                            <div class="sidebar-widget">
+                            <!--div class="sidebar-widget">
                                 <div class="tab-post">
                                     <ul class="nav nav-pills nav-justified">
                                         <li class="nav-item">
@@ -469,8 +585,8 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <div id="latest" class="container tab-pane fade">
+                                        </div-->
+                                        <!--div id="latest" class="container tab-pane fade">
                                             <div class="post-item">
                                                 <div class="post-img">
                                                     <img src="img/post-1.jpg" />
@@ -534,15 +650,15 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div-->
 
-                            <div class="sidebar-widget">
+                            <!--div class="sidebar-widget">
                                 <div class="image-widget">
                                     <a href="#"><img src="img/blog-2.jpg" alt="Image"></a>
                                 </div>
-                            </div>
+                            </div-->
 
-                            <div class="sidebar-widget">
+                            <!--div class="sidebar-widget">
                                 <h2 class="widget-title">Categories</h2>
                                 <div class="category-widget">
                                     <ul>
@@ -583,7 +699,7 @@
                                         Lorem ipsum dolor sit amet elit. Integer lorem augue purus mollis sapien, non eros leo in nunc. Donec a nulla vel turpis tempor ac vel justo. In hac platea nec eros. Nunc eu enim non turpis id augue.
                                     </p>
                                 </div>
-                            </div>
+                            </div-->
                         </div>
                     </div>
                 </div>

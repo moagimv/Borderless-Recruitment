@@ -69,7 +69,7 @@
                                     echo('<div id="success" class="alert alert-success">'.$Msg.'</div>');
                                 }
                             ?>
-                            <form id="jobPost" name="jobPost" novalidate="novalidate">
+                            <form id="jobPost" name="jobPost" method="post" action="server/employer.php" novalidate="novalidate">
                                 <div class="control-group">
                                     <input type="text" class="form-control" id="position" name="position" placeholder="The availbale position" required="required" data-validation-required-message="Please enter the available position" />
                                     <p class="help-block text-danger"></p>
@@ -91,7 +91,7 @@
                                     <p class="help-block text-danger"></p>
                                 </div>
                                 <div class="control-group">
-                                    <input type="email" class="form-control" id="email" placeholder="The contact person's email address" required="required" data-validation-required-message="Please enter the contact person's email address" />
+                                    <input type="email" class="form-control" id="email" name ="email" placeholder="The contact person's email address" required="required" data-validation-required-message="Please enter the contact person's email address" />
                                     <p class="help-block text-danger"></p>
                                 </div>
                                 <div class="control-group">
@@ -101,7 +101,7 @@
                                 <div class="row">
                                     <div class="control-group col-lg-12 col-md-6">
                                         <p>Copy of Job Attachment</p>
-                                        <input type="file" id="id" name="id">
+                                        <input type="file" id="attachment" name="attachment">
                                     </div>                                    
                                     <p class="help-block text-danger"></p>
                                 </div>

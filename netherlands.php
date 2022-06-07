@@ -91,7 +91,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-header text-left">
-                            <h3><strong>The Education System in Netherlands</strong></h3>
+                            <h3 style="color: blue;"><strong>The Education System in Netherlands</strong></h3>
                         </div>
                         <div class="about-content">
                             <p style="color: white;"> 
@@ -141,12 +141,12 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-header text-left">
-                            <h3><strong>Tourist Attractions in Netherlands</strong></h3>
+                            <h3 style="color: white;"><strong>Tourist Attractions in Netherlands</strong></h3>
                         </div>
                         <div class="about-content">
                             <p style="color: white;"> 
                                 No matter where you choose to study in Netherlands, it is perfectly situated for you to explore other European countries such as Poland, Italy, and Spain among the others. There are lot of attractions in Netherlands one is spoiled for choice; famous Dutch canals channels and of course the tulip flower fields known all over the world. Other well-known traditional things from the Netherlands are the windmills in the polders.
-                                To know more about tourist attraction in the Netherlands, visit <a href="https://www.holland.com/global/tourism.htm">Holland</a> 
+                                To know more about tourist attraction in the Netherlands, visit <a style="color: blue;" href="https://www.holland.com/global/tourism.htm">Holland</a> 
                            </p>
                         </div>
                     </div>
@@ -197,7 +197,7 @@
         <!-- Visa Application End --> 
 
         <!-- Testimonials Start-->
-        <?php include('template/testimonials.php'); ?>
+        <!--?php include('template/testimonials.php'); ?-->
         <!-- Testimonials End -->
 
         <!-- footer Start-->
