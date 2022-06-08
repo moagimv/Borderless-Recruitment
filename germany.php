@@ -67,7 +67,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Germany.jpg" alt="Image">
+                            <img src="img/Country-Germany4.jpg" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -93,14 +93,14 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-header text-left">
-                            <h3><strong>The Education System in Germany</strong></h3>
+                            <h3 style="color: white;"><strong>The Education System in Germany</strong></h3>
                         </div>
                         <div class="about-content">
                             <p style="color: white;"> 
                                 The quality of education in Germany is well organized and designed to be accessible to students, hence the options for on campus and online studies with more flexibility. 
                                 Germany has positioned its education system to respond to the global engineering skills demand and Fourth Industrial Revolution (4IR). 
                                 Germany education system prepares students to confidently face global challenges. 
-                                In a <a href="https://www.oecd.org/pisa/pisa-2015-results-in-focus.pdf">2015 OECD/PISA</a> study, Germany ranked 16th in mathematics as well as in science, and students attending ranked 11th in reading
+                                In a <a style="color: blue;" href="https://www.oecd.org/pisa/pisa-2015-results-in-focus.pdf">2015 OECD/PISA</a> study, Germany ranked 16th in mathematics as well as in science, and students attending ranked 11th in reading
                             </p>
                         </div>
                     </div>
@@ -120,7 +120,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Germany.jpg" alt="Image">
+                            <img src="img/Country-Germany1.jpg" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -153,18 +153,18 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-header text-left">
-                            <h3><strong>Tourist Attractions in Germany</strong></h3>
+                            <h3 style="color: white;"><strong>Tourist Attractions in Germany</strong></h3>
                         </div>
                         <div class="about-content">
                             <p style="color: white;"> 
                                 From boat cruising through beautiful canals to sightseeing of the magnificent castles or visits to the museums and the Brandenburg Gate Germany does not disappoint when coming to tourist attraction. 
-                                The country has something beautiful to offer for everyone, for more information on what to do in Germany visit <a href="https://www.germany.travel/en/home.html">Germany Travel</a>
+                                The country has something beautiful to offer for everyone, for more information on what to do in Germany visit <a style="color: blue;" href="https://www.germany.travel/en/home.html">Germany Travel</a>
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Germany.jpg" alt="Image">
+                            <img src="img/Country-Germany2.jpg" alt="Image">
                         </div>
                     </div>
                 </div>
@@ -178,7 +178,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Germany.jpg" alt="Image">
+                            <img src="img/Country-Germany3.jpg" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -191,15 +191,15 @@
                             </p>
                             <ul>
                                 <li>•	Two duly completed national visa application forms.</li>
-                                <li>•	Valid national passport. <a href="https://www.germany-visa.org/passport-requirements/">Read passport requirements</a></li>
-                                <li>•	Two recently taken biometric portrait photographs. <a href="https://www.germany-visa.org/visa-photo-requirements/"> Strict requirements, read the photo requirements page</a></li>
+                                <li>•	Valid national passport. <a style="color: blue;" href="https://www.germany-visa.org/passport-requirements/">Read passport requirements</a></li>
+                                <li>•	Two recently taken biometric portrait photographs. <a style="color: blue;" href="https://www.germany-visa.org/visa-photo-requirements/"> Strict requirements, read the photo requirements page</a></li>
                                 <li>•	University admission letter “Zulassungsbescheinigung”.</li>
                                 <li>•	Proof of German language proficiency. (For German-only and mixed-language study programs).</li>
                                 <li>•	Proof of English language proficiency.</li>
                                 <li>•	Authenticated certificates and academic records or transcripts </li>
                                 <li>•	Curriculum vitae accompanied with evidence of previous and current internship and work experiences if any.</li>
-                                <li>•	Evidence of affordability in the form of <a href="https://www.germany-visa.org/blocked-account-for-foreign-students-in-germany/"> a blocked bank account.</a> You can use <a href="https://www.germany-visa.org/fintiba"> Fintiba/Sutor Bank</a> to open a blocked account. The required amount by the German embassy to open a blocked account €10,332.</li>
-                                <li>•	<strong><a href="https://www.germany-visa.org/travel-health-insurance/health-insurance-students/">Student health insurance.</a></strong> It must have at least 30,000 EUR coverage, and it must be valid for at least 3 months. The tariff <a href="https://www.germany-visa.org/educare24"> EDUCARE24 by DR-WALTER</a> meets all the requirements and is accepted by all German consulates worldwide.</li> 
+                                <li>•	Evidence of affordability in the form of <a style="color: blue;" href="https://www.germany-visa.org/blocked-account-for-foreign-students-in-germany/"> a blocked bank account.</a> You can use <a style="color: blue;" href="https://www.germany-visa.org/fintiba"> Fintiba/Sutor Bank</a> to open a blocked account. The required amount by the German embassy to open a blocked account €10,332.</li>
+                                <li>•	<strong><a style="color: blue;" href="https://www.germany-visa.org/travel-health-insurance/health-insurance-students/">Student health insurance.</a></strong> It must have at least 30,000 EUR coverage, and it must be valid for at least 3 months. The tariff <a style="color: blue;" href="https://www.germany-visa.org/educare24"> EDUCARE24 by DR-WALTER</a> meets all the requirements and is accepted by all German consulates worldwide.</li> 
                                 <li>•	Motivational letter expressing the reason for choosing the specific university, study program. Mention also your study and plans and how these studies will be improving your career and life.</li> 
                                 <li>•	Marriage certificate; (Send this if you’re married). Support that with a birth certificate of any child (If related).</li> 
                                 <li>•	Proof of having paid the German student visa application fee.</li>                                
@@ -212,7 +212,7 @@
         <!-- Visa Application End --> 
 
         <!-- Testimonials Start-->
-        <?php include('template/testimonials.php'); ?>
+        <!--?php include('template/testimonials.php'); ?-->
         <!-- Testimonials End -->
 
         <!-- footer Start-->

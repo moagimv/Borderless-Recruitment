@@ -91,7 +91,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-header text-left">
-                            <h3><strong>The Education System in Malasyia</strong></h3>
+                            <h3 style="color: white;" ><strong>The Education System in Malasyia</strong></h3>
                         </div>
                         <div class="about-content">
                             <p style="color: white;"> 
@@ -101,7 +101,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Malaysia.jpg" alt="Image">
+                            <img src="img/Country-Malaysia1.jpg" alt="Image">
                         </div>
                     </div>                    
                 </div>
@@ -115,7 +115,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Malaysia.jpg" alt="Image">
+                            <img src="img/Country-Malaysia2.jpg" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -141,17 +141,17 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-header text-left">
-                            <h3><strong>Tourist Attractions in Malasyia</strong></h3>
+                            <h3 style="color: white;"><strong>Tourist Attractions in Malasyia</strong></h3>
                         </div>
                         <div class="about-content">
                             <p style="color: white;"> 
-                                Malaysia is a country where culture, food, and nature thrives at every corner. One of Malaysia's most popular and iconic landmark is the Petronas Towers in Kuala Lumpur. To know more about attractions in Malaysia visit <a href="https://www.malaysia.travel/">Malaysia Travel</a>
+                                Malaysia is a country where culture, food, and nature thrives at every corner. One of Malaysia's most popular and iconic landmark is the Petronas Towers in Kuala Lumpur. To know more about attractions in Malaysia visit <a style="color: blue;" href="https://www.malaysia.travel/">Malaysia Travel</a>
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Malaysia.jpg" alt="Image">
+                            <img src="img/Country-Malaysia3.jpg" alt="Image">
                         </div>
                     </div>
                 </div>
@@ -165,7 +165,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Malaysia.jpg" alt="Image">
+                            <img src="img/Country-Malaysia4.jpg" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -193,7 +193,7 @@
         <!-- Visa Application End --> 
 
         <!-- Testimonials Start-->
-        <?php include('template/testimonials.php'); ?>
+        <!--?php include('template/testimonials.php'); ?-->
         <!-- Testimonials End -->
 
         <!-- footer Start-->
@@ -212,7 +212,7 @@
         <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
         <script src="lib/easing/easing.min.js"></script>
-        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="lib/owlSSScarousel/owl.carousel.min.js"></script>
         <script src="lib/waypoints/waypoints.min.js"></script>
         <script src="lib/counterup/counterup.min.js"></script>
         

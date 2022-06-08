@@ -149,12 +149,12 @@
                         Students who resumed studies after being struck off the list of students.
                         <br /><br />
                         <strong>RECTOR’S SCHOLARSHIP FAQ</strong><br />
-                        <a href="https://en.uitm.edu.eu/wp-content/uploads/2021/06/Rectors-Scholarship-FAQ.docx">Check them out!</a>
+                        <a style="color: blue;" href="https://en.uitm.edu.eu/wp-content/uploads/2021/06/Rectors-Scholarship-FAQ.docx">Check them out!</a>
                         <br /><br />
                         <strong>DOCUMENTS TO DOWNLOAD:</strong><br />
                         All the required documents/forms that are provided by the university are available HERE<br />
-                        <a href="https://en.uitm.edu.eu/wp-content/uploads/2021/06/Application-for-Rectors-Scholarship.docx">Rector’s Scholarship application</a><br />
-                        <a href="https://en.uitm.edu.eu/wp-content/uploads/2021/06/table-of-additional-achievements-description_science-club-table.docx">Table of additional achievements</a>
+                        <a style="color: blue;" href="https://en.uitm.edu.eu/wp-content/uploads/2021/06/Application-for-Rectors-Scholarship.docx">Rector’s Scholarship application</a><br />
+                        <a style="color: blue;" href="https://en.uitm.edu.eu/wp-content/uploads/2021/06/table-of-additional-achievements-description_science-club-table.docx">Table of additional achievements</a>
                     </p>
                     <h5><strong>School of Leaders (SOL)</strong></h5>
                     <p>
@@ -169,14 +169,14 @@
                         •	assistance of the Careers Service within planning your career path.
                         <br /><br />
                         In addition, students belonging to the SoL will receive an internship offer at UITM units, where they will have the chance to gain their first professional experience and acquire valuable skills in the labor market. <br />
-                        More information – <a href="https://en.uitm.edu.eu/study/scholarships/school-of-leaders/">HERE</a>
+                        More information – <a style="color: blue;" href="https://en.uitm.edu.eu/study/scholarships/school-of-leaders/">HERE</a>
                         WHO CAN PROVIDE MORE DETAILS?<br />
                         School of Leaders Coordinator- Ms Małgorzata Sokół<br />
                         e-mail: msokol@wsiz.rzeszow.pl
                         <br /><br />
                         <strong>WHO CAN APPLY?</strong><br />
                         Students awarded with the highest point level in the Rector’s Scholarship.<br />
-                        Check-> <a href="https://en.uitm.edu.eu/wp-content/uploads/2021/06/table-of-additional-achievements-description_science-club-table.docx">Rector’s Scholarship tab</a>
+                        Check-> <a style="color: blue;" href="https://en.uitm.edu.eu/wp-content/uploads/2021/06/table-of-additional-achievements-description_science-club-table.docx">Rector’s Scholarship tab</a>
                         <br /><br />
                         <strong>FOR HOW LONG IT IS GRANTED?</strong><br />
                         For one semester (five months)
@@ -285,7 +285,7 @@
                         However, this is a unique scholarship that can only be awarded to the best students from all over Poland with outstanding achievements. Therefore, if you have achievements similar to those described above, please contact us. We will provide you all necessary details.
                         <br /><br />
                         <strong>MORE INFORMATION:</strong><br />
-                        <a href="https://www.gov.pl/web/nauka/informacja-na-temat-stypendiow-ministra-nauki-i-szkolnictwa-wyzszego-za-znaczace-osiagniecia-dla-studentow-na-rok-akademicki-20202021">Link</a> is original, only in Polish
+                        <a style="color: blue;" href="https://www.gov.pl/web/nauka/informacja-na-temat-stypendiow-ministra-nauki-i-szkolnictwa-wyzszego-za-znaczace-osiagniecia-dla-studentow-na-rok-akademicki-20202021">Link</a> is original, only in Polish
                     </p>
                     <h2><strong>MIIEMSA Scholarship: South Africa</strong></h2>                 
                     <p>
@@ -302,7 +302,7 @@
                         •	Only for commencing students (new students).
                         <br /><br />
                         <strong>To apply:</strong><br />
-                        •	Complete the <a href="https://www.iiemsa.co.za/wp-content/uploads/2021-ACADEMIC-EXCELLENCE-AWARD_NEW-STUDENTS.pdf">Application form (pdf)</a><br />
+                        •	Complete the <a style="color: blue;" href="https://www.iiemsa.co.za/wp-content/uploads/2021-ACADEMIC-EXCELLENCE-AWARD_NEW-STUDENTS.pdf">Application form (pdf)</a><br />
                         •	Attach Grade 12 results or equivalent qualification.<br />
                         •	Submit your application upon Registration
                         <br /><br />
@@ -325,7 +325,7 @@
                         Only for returning students (current students).
                         <br /><br />
                         <strong>To apply:</strong><br />
-                        Complete the <a href="https://www.iiemsa.co.za/wp-content/uploads/2021-ACADEMIC-EXCELLENCE-AWARD_CURRENT-STUDENTS.pdf">Application form (pdf)</a>.<br />
+                        Complete the <a style="color: blue;" href="https://www.iiemsa.co.za/wp-content/uploads/2021-ACADEMIC-EXCELLENCE-AWARD_CURRENT-STUDENTS.pdf">Application form (pdf)</a>.<br />
                         Submit your application upon Registration
                         <br /><br />
                         <strong>Withdrawing from your course</strong><br />
@@ -390,7 +390,7 @@
                         •	Apply for the discount.
                         <br /><br />
                         <strong>To apply:</strong><br />
-                        •	Complete the <a href="https://www.iiemsa.co.za/wp-content/uploads/2021-SIBLING-DISCOUNT.pdf">Application form (pdf)</a>.<br />
+                        •	Complete the <a style="color: blue;" href="https://www.iiemsa.co.za/wp-content/uploads/2021-SIBLING-DISCOUNT.pdf">Application form (pdf)</a>.<br />
                         •	Include proof that you are brothers and sisters (original certified copies of your birth certificates and parents’ identification).<br />
                         •	Submit your application upon Registration
                         <br /><br />
@@ -559,7 +559,7 @@
                         •	The student has not previously studied in the Netherlands<br />
                         •	The student has an IELTS of 6.5 (or higher) or an equivalent<br />
                         •	The student wants to enrol in a fulltime (four-year or three-year) bachelor’s or the 1.5 year Master programme at HZ<br />
-                        •	The student has already been (conditionally) accepted to the HZ Bachelor’s or the Master programme indicated with his/her scholarship application. See: <a href="https://hz.nl/en/study-information/apply">how to apply for a Bachelors' programme</a>
+                        •	The student has already been (conditionally) accepted to the HZ Bachelor’s or the Master programme indicated with his/her scholarship application. See: <a style="color: blue;" href="https://hz.nl/en/study-information/apply">how to apply for a Bachelors' programme</a>
                         <br /><br />
                         <strong>How to apply for the Holland Scholarship</strong><br />
                         Students can apply for the scholarship by sending an email to study@hz.nl before 1 May of their starting year. In this email, the student should indicate reasons for choosing the particular HZ Bachelor programme of study. The student must also send a copy of his/her CV with the email. The applications will be assessed by a two-member HZ Scholarship Committee, nominated by the academy directors. The HZ Scholarship Committee will award the scholarship based on previous academic results, motivation for choosing programme of study and C.V. applicants will be notified of the decision within 6 weeks after the application deadline of 1 May.
@@ -589,7 +589,7 @@
                     <h2>IU International University of Applied Sciences</h2>
                     <p>
                         <strong>Deutschlandstipendium (German Scholarship)</strong>
-                        The <a href="https://www.deutschlandstipendium.de/de/english-1700.html">Deutschlandstipendium (German scholarship)</a> supports talented students from all over the world that show outstanding performance. By accepting the scholarship, you commit to fulfilling the requirements of the university and to engage yourself as a dedicated and successful student at the IU.* 
+                        The <a style="color: blue;" href="https://www.deutschlandstipendium.de/de/english-1700.html">Deutschlandstipendium (German scholarship)</a> supports talented students from all over the world that show outstanding performance. By accepting the scholarship, you commit to fulfilling the requirements of the university and to engage yourself as a dedicated and successful student at the IU.* 
                         <br /><br />
                         With this scholarship, students may be granted financial support of €300 per month, usually offered for at least two semesters up to a maximum of the standard period of study. Funding is provided partly by the state and partly by an IU private sponsor (€150 each). 
                         <br /><br />

@@ -55,184 +55,55 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
+                        <img src="img/Gallery1.jpg" width="100%" height="100%" class="img-responsive">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
+                        <img src="img/Gallery2.jpg" width="100%" height="100%" class="img-responsive">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
+                        <img src="img/Gallery3.jpg" width="100%" height="100%" class="img-responsive">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
+                        <img src="img/Gallery4.jpg" width="100%" height="100%" class="img-responsive">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
+                        <img src="img/Gallery5.jpg" width="100%" height="100%" class="img-responsive">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
+                        <img src="img/Gallery6.jpg" width="100%" height="100%" class="img-responsive">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
+                        <img src="img/Gallery7.jpg" width="100%" height="100%" class="img-responsive">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
+                        <img src="img/Gallery8.jpg" width="100%" height="100%" class="img-responsive">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
+                        <img src="img/Gallery9.jpg" width="100%" height="100%" class="img-responsive">
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
+                        <img src="img/Gallery10.jpg" width="100%" height="100%" class="img-responsive">
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/item1.jpg" width="100%" height="100%" class="img-responsive">
-                    </div>
-                </div>
+                
             </div>
         </div>
     </div>

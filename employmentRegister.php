@@ -79,7 +79,7 @@
                                     <p class="help-block text-danger"></p>
                                 </div>
                                 <div class="control-group">
-                                    <input type="email" class="form-control" id="email" placeholder="Your Email Address" required="required" data-validation-required-message="Please enter your email address" />
+                                    <input type="email" class="form-control" id="email"  name="email" placeholder="Your Email Address" required="required" data-validation-required-message="Please enter your email address" />
                                     <p class="help-block text-danger"></p>
                                 </div>
                                 <div class="control-group">
@@ -97,7 +97,7 @@
                                 <div class="row">
                                     <div class="control-group col-lg-4 col-md-6">
                                         <p>Copy of Identity (ID)</p>
-                                        <input type="file" id="id" name="id">
+                                        <input type="file" id="idCopy" name="idCopy">
                                     </div>
                                     <div class="control-group col-lg-4 col-md-6">
                                         <p>Copy of Curriculum Vitae (CV)</p>

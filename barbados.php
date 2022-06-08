@@ -90,7 +90,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-header text-left">
-                            <h3><strong>The Education System in Barbados</strong></h3>
+                            <h3 style="color: white;"><strong>The Education System in Barbados</strong></h3>
                         </div>
                         <div class="about-content">
                             <p style="color: white;"> 
@@ -100,7 +100,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Barbados.jpg" alt="Image">
+                            <img src="img/Country-Barbados2.jpg" alt="Image">
                         </div>
                     </div>                    
                 </div>
@@ -114,7 +114,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Barbados.jpg" alt="Image">
+                            <img src="img/Country-Barbados3.jpg" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -140,17 +140,17 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="section-header text-left">
-                            <h3><strong>Tourist Attractions in Barbados</strong></h3>
+                            <h3 style="color: white;"><strong>Tourist Attractions in Barbados</strong></h3>
                         </div>
                         <div class="about-content">
                             <p style="color: white;"> 
-                            Besides its outstanding beaches, tourists visiting Barbados talk about historic sites, gardens, plantations, a wildlife preserve, and numerous points of interest in the capital city of Bridgetown.. Discover this fascinating and diverse country by visiting <a href="https://www.visitbarbados.org/">Visit Barbados</a>
+                            Besides its outstanding beaches, tourists visiting Barbados talk about historic sites, gardens, plantations, a wildlife preserve, and numerous points of interest in the capital city of Bridgetown.. Discover this fascinating and diverse country by visiting <a style="color: blue;" href="https://www.visitbarbados.org/">Visit Barbados</a>
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Barbados.jpg" alt="Image">
+                            <img src="img/Country-Barbados4.jpg" alt="Image">
                         </div>
                     </div>
                 </div>
@@ -164,7 +164,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="about-img">
-                            <img src="img/Country-Barbados.jpg" alt="Image">
+                            <img src="img/Country-Barbados1.jpg" alt="Image">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -198,7 +198,7 @@
         <!-- Visa Application End --> 
 
         <!-- Testimonials Start-->
-        <?php include('template/testimonials.php'); ?>
+        <!--?php include('template/testimonials.php'); ?-->
         <!-- Testimonials End -->
 
         <!-- footer Start-->

@@ -59,9 +59,9 @@
                         <i class="fa fa-book" style="text-align: center;"></i>
                         <h3>Post Job Opportunity</h3>
                         <p>
-                            Post employement opportunities in order to be connected with potential and valuable employees.
+                            Offer candidates any form of employment with competitive benefits and in compliance with local regulations and Borderless Recruitment will find you a suitable candidate.
                             <br /><br />
-                            We provide opportunities for employers to secure potential and valuable employees to grow and expand your business while providing the best customer service to all your clients. 
+                            We have a database of qualified, experienced, with police clearance and other background checked candidates who are ready to start a new job.
                         </p>
                         <a class="btn btn-custom" href="employerRegister.php">Post</a>
                     </div>
