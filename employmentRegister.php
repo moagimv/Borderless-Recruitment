@@ -69,7 +69,7 @@
                                     echo('<div id="success" class="alert alert-success">'.$Msg.'</div>');
                                 }
                             ?>
-                            <form id="jobApplication" name="jobApplication" novalidate="novalidate">
+                            <form id="jobApplication" name="jobApplication" method="post" action="server/employee.php" novalidate="novalidate">
                                 <div class="control-group">
                                     <input type="text" class="form-control" id="f-name" name="f-name" placeholder="Your First Name" required="required" data-validation-required-message="Please enter your first name" />
                                     <p class="help-block text-danger"></p>
@@ -155,5 +155,6 @@
 
         <!-- Template Javascript -->
         <script src="js/main.js"></script>
+        
     </body>
 </html>
