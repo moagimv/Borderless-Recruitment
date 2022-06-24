@@ -81,6 +81,57 @@
                             We assist job-seekers to compile their CVs using latest CV techniques based on industry standards.
                         </p>
                     </div>
+                </div>               
+                <div class="col-lg-4 col-md-6">
+                    <div class="service-item">
+                        <i class="fa fa-book" style="text-align: center;"></i>
+                        <h3>Millions of job, but shortage of workers</h3>
+                        <p>
+                            The Covid-19 pandemic and population contraction are causing a lot of challenges in the labour market especially in the first world economies. There is a growing shortage of skills forcing some developed countries to look outside their borders for in order to meet their labour markets demands.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="service-item">
+                        <i class="fa fa-book" style="text-align: center;"></i>
+                        <h3>Our services to you</h3>
+                        <p>
+                            At Borderless Recruitment we understand that searching for a job can be a challenge, more so if you are searching for overseas jobs, that is why we guide you through out the process. Our approach to helping you find a job abroad consists of:
+                            <ul>
+                                <li>•	Analysing your profile</li>
+                                <li>•	Identifying industry trends and job sources to ensure we attract more job offers for you</li>
+                                <li>•	Helping you improve and strengthen your profile on different platforms</li>
+                                <li>•	Registering your profile on various portals and job sites </li>
+                                <li>•	Applying to all relevant job postings on your behalf</li>
+                                <li>•	Guiding you through the visa application process</li>
+                            </ul>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="service-item">
+                        <i class="fa fa-book" style="text-align: center;"></i>
+                        <h3>What are some of the important skills necessary for overseas jobs?</h3>
+                        <p>
+                            Overseas work is not for everyone, you need to be international about it, develop certain skills and mind-set in order to find a job and grow your career in a foreign country. You must have a will to learn the language and culture of the country you want to work in. The following skills will come handy when looking for a job in a foreign country. 
+                            <ul>
+                                <li>•	Flexibility</li>
+                                <li>•	Sensitivity (to other cultures)</li>
+                                <li>•	Adaptability</li>
+                                <li>•	Risk-taking (calculated risk)</li>
+                                <li>•	Cooperative</li>
+                                <li>•	Curiosity</li>
+                                <li>•	Adventurous</li>
+                            </ul>
+                            We also find that people who succeed in finding jobs overseas are those who simply tick the right boxes like: 
+                            <ul>
+                                <li>•	Having a real motivation to move overseas, and being truly committed to look for jobs </li>
+                                <li>•	working hand-in-hand with us</li>
+                                <li>•	having the right qualification and/or experience for the job</li>
+                                <li>•	personalising each and every application to the position applied for</li>
+                            </ul>
+                        </p>
+                    </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
@@ -102,41 +153,8 @@
                                 <li>Conflict Management</li>
                             </ul>
                         </p>
-                        <a class="btn btn-custom" href="employerServices.php">Learn More</a>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <i class="fa fa-check-circle" style="text-align: center;"></i>
-                        <h3>Qualifications Evaluation with SAQA or USAF</h3>
-                        <p>
-                            People who want to study or work in South Africa are required by law to evaluate their foreign qualifications with either South African Qualifications Authority (SAQA) or Universities South Africa (USAF) formerly known as HESA. 
-                            <br /><br />
-                            Before embarking on the evaluation process, we are advising our clients to first confirm with the university or institution they want to study at about the evaluation they should apply for because some institutions prefer SAQA evaluation while others use USAF evaluation to make the admission decision.
-                            <br /><br />
-                            For many, it is challenging to apply for evaluation in South Africa while they are still in their home country, this is where Borderless Recruitment comes in. 
-                            <br /><br />
-                            We have made this process less tedious for our clients. 
-                            <br /><br />
-                            We assist our clients with application process, we make follow-ups and when the certificate is ready for collection we make arrangements for it to be send back to them at a minimal fee. In this way they avoid the stress of travelling to Pretoria - South Africa for the evaluation your qualifications. Everything is done while you sitting back home, let us do the runaround for you. 
-                            <br /><br />
-                            If you are interested in our assistance with the evaluation of qualifications send us an email at <a href="#">info@borderlessrecruitment.co.za</a>
-                        </p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <i class="fa fa-book" style="text-align: center;"></i>
-                        <h3>Millions of job, but shortage of workers</h3>
-                        <p>
-                            The Covid-19 pandemic has caused increased the labour shortages in countries such as Australia, Canada, United Kingdom, United States and New Zealand forcing them to look outside their borders for the skills that are needed in their countries. 
-                            <br /><br />
-                            If you are a professional in <strong> Care, Education, Manufacturing, Engineering & IT, Construction, Transportation or Skilled Trades</strong> let us help you find a job in one of these countries.
- 
-                        </p>
-                        <a class="btn btn-custom" href="employmentRegister.php">Register</a>
-                    </div>
-                </div>
+                </div> 
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
                         <i class="fa fa-users" style="text-align: center;"></i>
@@ -148,7 +166,6 @@
                         </p>
                     </div>
                 </div>
-                <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
                         <i class="fa fa-book" style="text-align: center;"></i>
@@ -175,9 +192,33 @@
                             <br /><br />
                             
                         </p>
-                        <a class="btn btn-custom" href="employmentRegister.php">Register</a>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="service-item">
+                        <i class="fa fa-book" style="text-align: center;"></i>
+                        <h3>Sectors </h3>
+                        <p>
+                            Health Professionals (there is high demand for healthcare workers in the US, UK, New Zealand, Canada and Saudi Arabia)
+                            <br /><br />
+                            Education (Countries such as China, New Zealand, UAE,  Saudi Arabia, Spain, Qatar, Vietnam, Taiwan, South Korea, Japan, Vietnam, Thailand are constantly looking for teachers)  
+                            <br /><br />
+                            Finance (Finance and related professionals are in demand in the UK, 	US, Germany, Canada, Hong Kong, Japan)
+                            <br /><br />
+                            Engineering (If you are an Engineer, countries like Canada, New Zealand, US, Germany, France are looking for your skills
+                            <br /><br />
+                            IT (The IT jobs are almost everywhere in the developed countries, some even offer remote jobs, you just need to decide which country will be most suitable for you) 
+                            <br /><br />
+                            Construction, (These countries are in need of construction workers Switzerland., UK, Belgium US, Canada, Singapore, Japan, Luxembourg.
+                            <br /><br />
+                            Logistics Countries in need of logistics skills are Finland, Ireland, Norway, Qatar, US, Germany
+                            <br /><br />
+                            Skilled Trades, The artisans are in demand in countries such as Hong Kong, US, Germany, and Canada.
+                            <br /><br />
+                            Farming (seasonal) Countries such as US, and New Zealand are some of the countries offering seasonal jobs like Farmworkers, Construction etc
+                        </p>
+                    </div>
+                </div>                
             </div>
         </div>
     </div>

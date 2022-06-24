@@ -34,7 +34,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h2>IELTS Booking</h2>
+                        <h2>IELTS Preparation</h2>
                     </div>
                     <div class="col-12">
                         <a href="index.php">Home</a>
@@ -45,6 +45,16 @@
         </div>
         <!-- Page Header End -->
         
+         <!-- Service Start -->
+        <div class="service">
+            <div class="container">
+                <div class="section-header text-center">
+                    <p>Coming Soon</p>
+                    <h2>Coming Soon</h2>
+                </div>
+            </div>
+       </div>
+
         <!-- facts Start-->
         <?php include('template/facts.php'); ?>
         <!-- facts End -->

@@ -56,7 +56,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
-                        <i class="fa fa-book" style="text-align: left;"></i>
+                        <i class="fa fa-graduation-cap" style="text-align: left;"></i>
                         <h3>Student Services</h3>
                         <p>
                             We provide opportunities for student to study abroad because overseas studies come with a lot of benefits such as personal growth, exposure to other people’s cultures and expanding your network just to mention the few. It is for these reasons and others that more students are beginning to look abroad for their studies. 
@@ -67,10 +67,12 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
-                        <i class="fa fa-graduation-cap" style="text-align: center;"></i>
+                        <i class="fa fa-book" style="text-align: center;"></i>
                         <h3>Job Seekers Services</h3>
                         <p>
-                            We provide opportunities for Job Seekers to secure employment abroad because employement come with a lot of benefits such as career growth, personal growth, exposure to other people’s cultures and expanding your network just to mention the few. It is for these reasons and others that more Job seekers are beginning to look abroad for their job opportunities. 
+                            If you are looking for an overseas job, you came to the right place.<br /><br />
+                            Did you know that overseas job opens the door to an international career and many travel opportunities?<br /><br />
+                            Most Africans are struggling to find jobs in their native countries irrespective of their level of education, the job markets keep shrinking. This reality is not going to change anytime soon unless people get out of their comfort zones, take matters into their own hands and take control of their careers and future.
                         </p>
                         <a class="btn btn-custom" href="employmentServices.php">Explore More</a>
                     </div>

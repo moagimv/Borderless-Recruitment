@@ -3,7 +3,7 @@
             <div class="container">
                 <div class="section-header text-center">
                     <p>Meet Our Partners</p>
-                    <h2>Our Partners</h2>
+                    <h2>Strategic Partners</h2>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-md-6">
