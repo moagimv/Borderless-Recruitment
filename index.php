@@ -35,7 +35,7 @@
                 <div class="owl-carousel">
                     <div class="carousel-item">
                         <div class="carousel-img">
-                            <img src="img/main-burner.jpg" alt="Image">
+                            <img src="img/Option2.jpg" alt="Image">
                         </div>
                         <div class="carousel-text">
                         </div>
