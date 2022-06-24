@@ -54,7 +54,7 @@
                 <h2>Premium Employer Services</h2>
             </div>
             <div class="row">
-                <div class="col-lg-12 col-md-6">
+                <div class="col-lg-6 col-md-6">
                     <div class="service-item">
                         <i class="fa fa-book" style="text-align: center;"></i>
                         <h3>Post Job Opportunity</h3>
@@ -62,17 +62,35 @@
                             Offer candidates any form of employment with competitive benefits and in compliance with local regulations and Borderless Recruitment will find you a suitable candidate.
                             <br /><br />
                             We have a database of qualified, experienced, with police clearance and other background checked candidates who are ready to start a new job.
-                        </p>
+                        </p>                        
                         <a class="btn btn-custom" href="employerRegister.php">Post</a>
                     </div>
-                </div>                              
+                </div>
+                <div class="col-lg-6 col-md-6">
+                    <div class="service-item">
+                        <i class="fa fa-book" style="text-align: center;"></i>
+                        <h3>Sectors</h3>
+                        <p>
+                            <ul>
+                                <li>Health Professionals</li>
+                                <li>Education</li>
+                                <li>Finance</li>
+                                <li>Engineering</li>
+                                <li>IT</li>
+                                <li>Construction,</li>
+                                <li>Logistics</li>
+                                <li>Skilled Trades/Artisans</li>
+                                <li>Farming Workers</li>
+                                
+                            </ul>
+                        </p>                        
+                    </div>                                     
             </div>
         </div>
     </div>
     <!-- Service End -->
         
-
-        
+       
         <!-- footer Start-->
         <?php include('template/footer.php'); ?>
         <!-- footer End -->
