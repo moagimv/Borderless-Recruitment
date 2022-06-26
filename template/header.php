@@ -6,7 +6,7 @@
                     <div class="col-lg-4 col-md-12">
                         <div class="logo">
                             <a href="index.php">
-                                <img src="img/logo.jpg" alt="Logo" width="40%" height="100%">
+                                <img src="img/logo.jpg" alt="Logo" width="30%" height="100%">
                             </a>
                         </div>
                     </div>
@@ -30,7 +30,7 @@
                                     </div>
                                     <div class="top-bar-text">
                                         <h3>Call Us</h3>
-                                        <p>012-383-2136</p>
+                                        <p>+27 12-383-2136</p>
                                     </div>
                                 </div>
                             </div>
@@ -89,8 +89,14 @@
                                     <a href="studentRegister.php" class="dropdown-item">Apply Now</a>
                                 </div>
                             </div>
-                            <a href="contact.php" class="nav-item nav-link">Contact</a>                            
-                            <a href="IELTSBooking.php" class="nav-item nav-link">IELTS</a> 
+                            <a href="contact.php" class="nav-item nav-link">Contact</a>
+                            <div class="nav-item dropdown">                           
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">IELTS</a>
+                                <div class="dropdown-menu">
+                                    <a href="IELTSBooking.php" class="dropdown-item">Booking</a>
+                                    <a href="IELTSPreparation.php" class="dropdown-item">Preparation</a>
+                                </div>
+                            </div>
                             <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Socials</a>
                                 <div class="dropdown-menu">

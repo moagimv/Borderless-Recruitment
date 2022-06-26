@@ -286,8 +286,8 @@
                                         <h3>Pretoria, South Africa</h3>
                                         <p><i class="fa fa-calendar"></i><span>Monday - Friday:</span> 8:30 AM to 5:00 PM</p>
                                         <p><i class="fa fa-map-marker"></i><span>Address:</span>Pretoria, Gauteng, RSA, 0002</p>
-                                        <p><i class="fa fa-phone"></i><span>Phone:</span> +27 (012) 383-2136</p>
-                                        <p><i class="fab fa-whatsapp"></i><span>whatsapp:</span> +27 (082) 211-6802</p>
+                                        <p><i class="fa fa-phone"></i><span>Phone:</span> +27 12 383-2136</p>
+                                        <p><i class="fab fa-whatsapp"></i><span>Whatsapp:</span> +27 66 422-0517</p>
                                         <p><i class="fa fa-envelope"></i><span>Email:</span> info@borderlessrecruitment.co.za</p>
                                     </div>
                                 </div>

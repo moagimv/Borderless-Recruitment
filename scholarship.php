@@ -290,7 +290,7 @@
                             <a style="color: blue;" href="https://www.gov.pl/web/nauka/informacja-na-temat-stypendiow-ministra-nauki-i-szkolnictwa-wyzszego-za-znaczace-osiagniecia-dla-studentow-na-rok-akademicki-20202021">Link</a> is original, only in Polish
                         </p>                    
                     </div>
-                    <button class="accordion"><h2>MIIEMSA Scholarship: South Africa</h2></button>                
+                    <button class="accordion"><h2>IIEMSA Scholarship: South Africa</h2></button>                
                     <div class="panel">
                         <p>
                             <strong>ACADEMIC EXCELLENCE AWARD NEW STUDENT</strong><br />

@@ -34,7 +34,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h2>IELTS Preparation</h2>
+                        <h2>IELTS Booking</h2>
                     </div>
                     <div class="col-12">
                         <a href="index.php">Home</a>
@@ -45,15 +45,60 @@
         </div>
         <!-- Page Header End -->
         
-         <!-- Service Start -->
-        <div class="service">
+        <!-- Apply Start -->
+        <div class="contact">
             <div class="container">
                 <div class="section-header text-center">
-                    <p>Coming Soon</p>
-                    <h2>Coming Soon</h2>
+                    <p>Book for IELTS</p>
+                    <h2>Book for IELTS</h2>
+                </div>
+                <div class="row">                    
+                    <div class="col-md-12">
+                        <div class="contact-form">
+                            <?php
+                                $Msg = "";
+                                if(isset($_GET['error'])){
+                                    $Msg = "Your application could not be sent right now, please try again later";
+                                    echo('<div id="error" class="alert alert-danger">'.$Msg.'</div>');
+                                }
+
+                                if(isset($_GET['success'])){
+                                    $Msg = "Your application has been sent successfully";
+                                    echo('<div id="success" class="alert alert-success">'.$Msg.'</div>');
+                                }
+                            ?>
+                            <form id="jobApplication" name="jobApplication" method="post" action="server/employee.php" novalidate="novalidate">
+                                <div class="control-group">
+                                    <input type="text" class="form-control" id="f-name" name="f-name" placeholder="Your First Name" required="required" data-validation-required-message="Please enter your first name" />
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="control-group">
+                                    <input type="text" class="form-control" id="l-name" name="l-name" placeholder="Your Last Name" required="required" data-validation-required-message="Please enter your last name" />
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="control-group">
+                                    <input type="email" class="form-control" id="email"  name="email" placeholder="Your Email Address" required="required" data-validation-required-message="Please enter your email address" />
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="control-group">
+                                    <input type="text" class="form-control" id="phone" name="phone" placeholder="Your phone number" required="required" data-validation-required-message="Please enter your phone number" />
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="control-group">
+                                    <input type="text" class="form-control" id="country" name="country" placeholder="Your country of Origin" required="required" data-validation-required-message="Please enter your country of Origin" />
+                                    <p class="help-block text-danger"></p>
+                                </div> 
+                                <div>
+                                    <p class="help-block text-danger"></p>
+                                    <button class="btn btn-custom" type="submit" id="submitJobAppplication" name="submitJobAppplication">Submit</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
                 </div>
             </div>
-       </div>
+        </div>
+        <!-- end of form -->
 
         <!-- facts Start-->
         <?php include('template/facts.php'); ?>

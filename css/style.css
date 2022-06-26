@@ -1209,11 +1209,11 @@ a:focus {
 
 .blog .blog-img {
     position: relative;
-    width: 100%;
+    width: 70%;
 }
 
 .blog .blog-img img {
-    width: 100%;
+    width: 70%;
     border-radius: 5px;
 }
 

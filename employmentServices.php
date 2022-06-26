@@ -55,40 +55,18 @@
                 <h2>Premium Recruitment Services</h2>
                
             </div>
-            <p>According to the Statistics South Africa (StatsSA) Quarterly Labour Force Survey (QLFS), the South African unemployment rate among the youth is 63.9%, the highest in the whole world. With this sad reality facing the SA Youth, it is about time the SA youth considers employment opportunities beyond the SA borders.</p>
+            <p>The Covid-19 pandemic and population contraction are causing a lot of challenges in the labour market. There is a growing shortage of skills forcing some developed countries to look outside their borders in order to meet their labour markets demands.</p>
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
                         <i class="fa fa-book" style="text-align: center;"></i>
-                        <h3>Job Seeker Application</h3>
+                        <h3>Job Seekers</h3>
                         <p>
-                            Register as a Job Seeker for employement opportunities.
-                            <br /><br />
-                            We provide opportunities for Job Seekers to secure employment abroad because employement come with a lot of benefits such as career growth, personal growth, exposure to other people’s cultures and expanding your network just to mention the few. It is for these reasons and others that more Job seekers are beginning to look abroad for their job opportunities. 
+                            If you are looking for an overseas job, you came to the right place. <br /><br />
+                            Did you know that overseas job opens the door to an international career and many travel opportunities?<br /><br />
+                            Most Africans are struggling to find jobs in their native countries irrespective of their level of education, the job markets keep shrinking. This reality is not going to change anytime soon unless people get out of their comfort zones, take matters into their own hands and take control of their careers and future.
                         </p>
-                        <a class="btn btn-custom" href="employmentRegister.php">Register</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <i class="fa fa-briefcase" style="text-align: center;"></i>
-                        <h3>CV Compilation</h3>
-                        <p>
-                            Your CV is the only document that employers will form an opinion about your suitability for the position before they meet you. How you construct it will determine whether you will be invited for interview or not. Make sure your CV stands out from the rest. It must catch the employer’s attention.
-                            <br /><br />
-                            When compiling CV bear in mind that there are many candidates applying for the same job you are applying for, therefore some employers might not have enough time to read through long pages of CVs. Make is short, clean and eliminate unnecessary details. 
-                            <br /><br />
-                            We assist job-seekers to compile their CVs using latest CV techniques based on industry standards.
-                        </p>
-                    </div>
-                </div>               
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <i class="fa fa-book" style="text-align: center;"></i>
-                        <h3>Millions of job, but shortage of workers</h3>
-                        <p>
-                            The Covid-19 pandemic and population contraction are causing a lot of challenges in the labour market especially in the first world economies. There is a growing shortage of skills forcing some developed countries to look outside their borders for in order to meet their labour markets demands.
-                        </p>
+                        <a class="btn btn-custom" href="employmentRegister.php">Submit your CV</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -98,63 +76,16 @@
                         <p>
                             At Borderless Recruitment we understand that searching for a job can be a challenge, more so if you are searching for overseas jobs, that is why we guide you through out the process. Our approach to helping you find a job abroad consists of:
                             <ul>
-                                <li>•	Analysing your profile</li>
-                                <li>•	Identifying industry trends and job sources to ensure we attract more job offers for you</li>
-                                <li>•	Helping you improve and strengthen your profile on different platforms</li>
-                                <li>•	Registering your profile on various portals and job sites </li>
-                                <li>•	Applying to all relevant job postings on your behalf</li>
-                                <li>•	Guiding you through the visa application process</li>
+                                <li>Analysing your profile</li>
+                                <li>Identifying industry trends and job sources to ensure we attract more job offers for you</li>
+                                <li>Helping you improve and strengthen your profile on different platforms</li>
+                                <li>Registering your profile on various portals and job sites </li>
+                                <li>Applying to all relevant job postings on your behalf</li>
+                                <li>Guiding you through the visa application process</li>
                             </ul>
                         </p>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <i class="fa fa-book" style="text-align: center;"></i>
-                        <h3>What are some of the important skills necessary for overseas jobs?</h3>
-                        <p>
-                            Overseas work is not for everyone, you need to be international about it, develop certain skills and mind-set in order to find a job and grow your career in a foreign country. You must have a will to learn the language and culture of the country you want to work in. The following skills will come handy when looking for a job in a foreign country. 
-                            <ul>
-                                <li>•	Flexibility</li>
-                                <li>•	Sensitivity (to other cultures)</li>
-                                <li>•	Adaptability</li>
-                                <li>•	Risk-taking (calculated risk)</li>
-                                <li>•	Cooperative</li>
-                                <li>•	Curiosity</li>
-                                <li>•	Adventurous</li>
-                            </ul>
-                            We also find that people who succeed in finding jobs overseas are those who simply tick the right boxes like: 
-                            <ul>
-                                <li>•	Having a real motivation to move overseas, and being truly committed to look for jobs </li>
-                                <li>•	working hand-in-hand with us</li>
-                                <li>•	having the right qualification and/or experience for the job</li>
-                                <li>•	personalising each and every application to the position applied for</li>
-                            </ul>
-                        </p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <i class="fa fa-tasks" style="text-align: center;"></i>
-                        <h3>Employability Skills or Soft Skills</h3>
-                        <p>
-                            The employability skills also known as transferable skills are set of skills not specific to one particular career path but are useful across all employment sectors. The employers are often looking for these skills which go beyond qualifications and experience, therefore highlighting them in your job application is important.
-                            <br />
-                            <strong>Soft Skills</strong>
-                            <ul>
-                                <li>Good Written and verbal Communication </li>
-                                <li>Problem Solving </li>
-                                <li>Adaptability</li>                                
-                                <li>Time Management</li>
-                                <li>Collaboration</li>                                
-                                <li>Organisation</li>                               
-                                <li>Technology use</li>                               
-                                <li>Team Work</li>
-                                <li>Conflict Management</li>
-                            </ul>
-                        </p>
-                    </div>
-                </div> 
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
                         <i class="fa fa-users" style="text-align: center;"></i>
@@ -164,40 +95,38 @@
                             <br /><br />
                             In some countries foreign candidates are expected to write and pass IELTS, If you want us to help you with IELTS bookings, <a href="#">send your request here</a>
                         </p>
+                        <a class="btn btn-custom" href="IELTSBooking.php">IELTS booking</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
                         <i class="fa fa-book" style="text-align: center;"></i>
-                        <h3>What are the key traits and skills necessary for overseas jobs?</h3>
+                        <h3>What are some of the important skills necessary for overseas jobs?</h3>
                         <p>
-                            Overseas work is not for everyone, you need to develop certain skills and mind-set in order to work in a foreign country. Firstly you must have a will to learn the language and culture of the country you want to work in. The following skills will come handy when looking for a job in a foreign country.</br>
+                            Overseas work is not for everyone, you need to be international about it, develop certain skills and mind-set in order to find a job and grow your career in a foreign country. You must have a will to learn the language and culture of the country you want to work in. The following skills will come handy when looking for a job in a foreign country. 
                             <ul>
                                 <li>Flexibility</li>
                                 <li>Sensitivity (to other cultures)</li>
                                 <li>Adaptability</li>
-                                <li>Risk-taking</li>
+                                <li>Risk-taking (calculated risk)</li>
                                 <li>Cooperative</li>
-                                <li>Cooperative</li>
+                                <li>Curiosity</li>
                                 <li>Adventurous</li>
-                                
                             </ul>
-                            We also find that people who successful find jobs abroad are those who simply tick the right boxes like:
+                            We also find that people who succeed in finding jobs overseas are those who simply tick the right boxes like: 
                             <ul>
-                                <li>having a real motivation to move overseas, and being truly committed to look for jobs</li>
+                                <li>Having a real motivation to move overseas, and being truly committed to look for jobs </li>
                                 <li>working hand-in-hand with us</li>
                                 <li>having the right qualification and/or experience for the job</li>
                                 <li>personalising each and every application to the position applied for</li>
                             </ul>
-                            <br /><br />
-                            
                         </p>
                     </div>
-                </div>
+                </div>                                
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
                         <i class="fa fa-book" style="text-align: center;"></i>
-                        <h3>Sectors </h3>
+                        <h3>Sectors currently hiring</h3>
                         <p>
                             Health Professionals (there is high demand for healthcare workers in the US, UK, New Zealand, Canada and Saudi Arabia)
                             <br /><br />

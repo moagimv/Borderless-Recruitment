@@ -93,10 +93,10 @@
                                 <div class="control-group">
                                     <select name="university" id="university" type="text" class="form-control" required="required" data-validation-required-message="Please select your University">
                                         <option value="">Select One University</option>
-                                        <option value="up">University of Pretoria (UP)</option>
-                                        <option value="uj">University of Johannesburg (UJ)</option>
-                                        <option value="tut">Tshwane University of Technology (TUT)</option>
-                                        <option value="wits">University of Witwatersrand</option>
+                                        <option value="Vincent Pol University - Poland">Vincent Pol University - Poland</option>
+                                        <option value="International University of Applied Sciences - Germany">International University of Applied Sciences - Germany</option>
+                                        <option value="Manipal Academy of Higher Education - Dubai (UAE)">Manipal Academy of Higher Education - Dubai (UAE)</option>
+                                        <option value="SWPS University - Poland">SWPS University - Poland</option>
                                     </select>
                                     <p class="help-block text-danger"></p>
                                 </div>

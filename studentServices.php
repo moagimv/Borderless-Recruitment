@@ -162,6 +162,7 @@
                             <br /><br />
                             We provide guidance on how to apply for scholarships, in some instances assisting students with writing the motivation letters for scholarships applications. For South African students there are companies offering study loans which come with terms and conditions. We are able to facilitate the study loan application process provided the student has the university admission letter and proof that someone will be able to repay the loan while the student is studying (terms and conditions apply)
                         </p>
+                        <a class="btn btn-custom" href="scholarship.php">Click here for available scholarships</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">

@@ -53,9 +53,14 @@
                 <p>Gallery</p>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <div class="service-item">
-                        <img src="img/Gallery1.jpg" width="100%" height="100%" class="img-responsive">
+                <div class="col-lg-4 col-md-6 blog-item">
+                    <div class="blog-img">
+                        <div class="service-item">
+                            <img src="img/Gallery1.jpg" width="100%" height="100%" class="img-responsive">
+                            <div class="meta-date">
+                                <a href="price.php" style="color: white;"><span>Live with Strathclyde</span></a>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">

@@ -379,11 +379,8 @@
                                 <h2 class="widget-title">Recent Post</h2>
                                 <div class="recent-post">
                                     <div class="post-item">
-                                        <div class="post-img">
-                                            <img src="img/post-1.jpg" />
-                                        </div>
                                         <div class="post-text">
-                                            <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                            <a href="">Newcastle University ranked 1st in UK by THE Impact Rankings</a>
                                             <div class="post-meta">
                                                 <p>By<a href="">Admin</a></p>
                                                 <p>In<a href="">Web Design</a></p>
@@ -391,11 +388,8 @@
                                         </div>
                                     </div>
                                     <div class="post-item">
-                                        <div class="post-img">
-                                            <img src="img/post-2.jpg" />
-                                        </div>
                                         <div class="post-text">
-                                            <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                            <a href="">MAHE Dubai has been awarded the GCC Regional Champion (Asia Pacific) award for year 2020 by CGMA Global University (CIMA)</a>
                                             <div class="post-meta">
                                                 <p>By<a href="">Admin</a></p>
                                                 <p>In<a href="">Web Design</a></p>
@@ -403,11 +397,8 @@
                                         </div>
                                     </div>
                                     <div class="post-item">
-                                        <div class="post-img">
-                                            <img src="img/post-3.jpg" />
-                                        </div>
                                         <div class="post-text">
-                                            <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                            <a href="">With 23 countries yet to fully reopen schools, education risks becoming ‘greatest divider’ as COVID-19 pandemic enters third year</a>
                                             <div class="post-meta">
                                                 <p>By<a href="">Admin</a></p>
                                                 <p>In<a href="">Web Design</a></p>
@@ -415,11 +406,8 @@
                                         </div>
                                     </div>
                                     <div class="post-item">
-                                        <div class="post-img">
-                                            <img src="img/post-4.jpg" />
-                                        </div>
                                         <div class="post-text">
-                                            <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                            <a href="">TÜV NORD Certificate for UITM students</a>
                                             <div class="post-meta">
                                                 <p>By<a href="">Admin</a></p>
                                                 <p>In<a href="">Web Design</a></p>
@@ -427,11 +415,8 @@
                                         </div>
                                     </div>
                                     <div class="post-item">
-                                        <div class="post-img">
-                                            <img src="img/post-5.jpg" />
-                                        </div>
                                         <div class="post-text">
-                                            <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                            <a href="">Ukrainian refugees get home fee status at English universities</a>
                                             <div class="post-meta">
                                                 <p>By<a href="">Admin</a></p>
                                                 <p>In<a href="">Web Design</a></p>

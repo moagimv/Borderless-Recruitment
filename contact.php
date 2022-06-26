@@ -81,7 +81,7 @@
                                 </div>
                                 <div class="contact-info-text">
                                     <h3>Call Us</h3>
-                                    <p>+27 (012) 383-2136</p>
+                                    <p>+27 12 383-2136</p>
                                 </div>
                             </div>
                             <div class="contact-info-item">
@@ -90,7 +90,7 @@
                                 </div>
                                 <div class="contact-info-text">
                                     <h3>Whatsapp Us</h3>
-                                    <p>+27 (082) 211-6802</p>
+                                    <p>+27 66 422-0517</p>
                                 </div>
                             </div>
                             <div class="contact-info-item">

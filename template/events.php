@@ -9,10 +9,8 @@
                     <div class="col-lg-4">
                         <div class="blog-item">
                             <div class="blog-img">
-                                <a href="price.php"><img src="img/blog-2.jpg" alt="Image"></a>
-                                <div class="meta-date">
-                                    <a href="price.php" style="color: white;"><span>G T K IU Africa</span></a>
-                                </div>
+                                <a href="price.php"><img src="img/events.jpg" alt="Image" height="100px"></a>
+                                
                             </div>
                             <div class="blog-text">
                                 <h3><a href="price.php">Get to know IU (Africa)</a></h3>
@@ -31,10 +29,7 @@
                     <div class="col-lg-4">
                         <div class="blog-item">
                             <div class="blog-img">
-                                <a href="price.php"><img src="img/blog-3.jpg" alt="Image"></a>
-                                <div class="meta-date">
-                                    <a href="price.php" style="color: white;"><span>V O D</span></a>
-                                </div>
+                                <a href="price.php"><img src="img/events.jpg" alt="Image" height="100px"></a>
                             </div>
                             <div class="blog-text">
                                 <h3><a href="price.php">Vitual Open Day</a></h3>
@@ -48,14 +43,11 @@
                             </div>
                         </div>
                     </div>
-
+                    
                     <div class="col-lg-4">
                         <div class="blog-item">
                             <div class="blog-img">
-                                <a href="price.php"><img src="img/blog-3.jpg" alt="Image"></a>
-                                <div class="meta-date">
-                                    <a href="price.php" style="color: white;"><span>Live with Strathclyde</span></a>
-                                </div>
+                                <a href="price.php"><img src="img/events.jpg" alt="Image" height="100px"></a>
                             </div>
                             <div class="blog-text">
                                 <h3><a href="price.php">Facebook Live with the University of Strathclyde</a></h3>
