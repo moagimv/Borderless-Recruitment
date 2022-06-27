@@ -50,7 +50,7 @@
         <div class="container">        
             <div class="section-header text-center">
                 <p>Universities</p>
-                <h2>We have partners with multiple institutions accross the globe in over 10+ countries</h2>
+                <h2>We have partnered with multiple institutions accross the globe in over 10+ countries</h2>
             </div>
             <div class="row">                
                 <div class="col-lg-4 col-md-6">

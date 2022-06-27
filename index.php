@@ -34,7 +34,7 @@
             <div class="container-fluid">
                 <div class="owl-carousel">
                     <div class="carousel-item">
-                        <div class="carousel-img">
+                        <div>
                             <img src="img/Option2.jpg" alt="Image">
                         </div>
                         <div class="carousel-text">
@@ -97,10 +97,6 @@
         </div>
         <!-- Carousel End -->
         
-        <!-- events Start-->
-        <?php include('template/events.php'); ?>
-        <!-- events End -->
-
         <!-- About Start -->
         <div class="about">
             <div class="container">
@@ -269,26 +265,33 @@
         </div>
         <!-- Price End -->
         
-        
+        <!-- events Start-->
+        <?php include('template/events.php'); ?>
+        <!-- events End -->
+
         <!-- Location Start -->
         <div class="location">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class="col-lg-7">
                         <div class="section-header text-left">
                             <p>Our Office</p>
                         </div>
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-7">
                                 <div class="location-item">
                                     <i class="fa fa-map-marker-alt"></i>
                                     <div class="location-text info-detail">
-                                        <h3>Pretoria, South Africa</h3>
-                                        <p><i class="fa fa-calendar"></i><span>Monday - Friday:</span> 8:30 AM to 5:00 PM</p>
-                                        <p><i class="fa fa-map-marker"></i><span>Address:</span>Pretoria, Gauteng, RSA, 0002</p>
-                                        <p><i class="fa fa-phone"></i><span>Phone:</span> +27 12 383-2136</p>
-                                        <p><i class="fab fa-whatsapp"></i><span>Whatsapp:</span> +27 66 422-0517</p>
-                                        <p><i class="fa fa-envelope"></i><span>Email:</span> info@borderlessrecruitment.co.za</p>
+                                        <h3>South Africa</h3>
+                                        <p><i class="fa fa-calendar"></i><span> Monday - Friday:</span> 8:30 AM to 5:00 PM</p>
+                                        <br />
+                                        <p><i class="fa fa-map-marker"></i><span> Address:</span> Pretoria, Gauteng, RSA, 0002</p>
+                                        <br />
+                                        <p><i class="fa fa-phone"></i><span> Phone:</span> +27 12 383-2136</p>
+                                        <br />
+                                        <p><i class="fab fa-whatsapp"></i><span> Whatsapp:</span> +27 66 422-0517</p>
+                                        <br />
+                                        <p><i class="fa fa-envelope"></i><span> Email:</span> info@borderlessrecruitment.co.za</p>
                                     </div>
                                 </div>
                             </div>

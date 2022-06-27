@@ -8,7 +8,7 @@
                             <h2>Get In Touch</h2>
                             <p><i class="fa fa-calendar"></i>Monday - Friday: 8:30 AM to 5:00 PM</p>
                             <p><i class="fa fa-map-marker-alt"></i>Pretoria, Gauteng, RSA, 0002</p>
-                            <p><i class="fa fa-phone-alt"></i>+27 (012) 383-2136</p>
+                            <p><i class="fa fa-phone-alt"></i>+27 12 383-2136</p>
                             <p><i class="fa fa-envelope"></i>info@borderlessrecruitment.co.za</p>
                             <div class="footer-social">
                                 <a class="btn" href="#"><i class="fab fa-twitter"></i></a>
@@ -31,9 +31,9 @@
                         <div class="footer-link">
                             <h2>Useful Links</h2>
                             <a href="termsandconditions.php">Terms of use</a>
-                            <a href="#">Privacy policy</a>
+                            <a hidden href="#">Privacy policy</a>
                             <a href="#">Cookies</a>
-                            <a href="admin/login.php">Help</a>
+                            <a href="admin/login.php">Admin</a>
                             <a href="#">FQAs</a>
                         </div>
                     </div>

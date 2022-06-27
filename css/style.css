@@ -877,6 +877,7 @@ a:focus {
 
 .price .price-body ul li {
     padding: 0 0 15px 0;
+    text-align: left;
 }
 
 .price .price-body ul li i {

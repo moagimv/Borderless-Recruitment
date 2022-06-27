@@ -65,7 +65,7 @@
                         <div class="navbar-nav mr-auto">
                             <a href="index.php" class="nav-item nav-link"><i class="fa fa-home"></i></a>                                                        
                             <a href="about.php" class="nav-item nav-link">About</a>
-                            <a href="service.php" class="nav-item nav-link">Service</a>
+                            <a href="service.php" class="nav-item nav-link">Services</a>
                             <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Countries</a>
                                 <div class="dropdown-menu">
