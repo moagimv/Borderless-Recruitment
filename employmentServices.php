@@ -71,7 +71,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
-                        <i class="fa fa-book" style="text-align: center;"></i>
+                        <i class="fa fa-server" style="text-align: center;"></i>
                         <h3>Our services to you</h3>
                         <p>
                             At Borderless Recruitment we understand that searching for a job can be a challenge, more so if you are searching for overseas jobs, that is why we guide you through out the process. Our approach to helping you find a job abroad consists of:
@@ -100,7 +100,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
-                        <i class="fa fa-book" style="text-align: center;"></i>
+                        <i class="fa fa-check-square" style="text-align: center;"></i>
                         <h3>What are some of the important skills necessary for overseas jobs?</h3>
                         <p>
                             Overseas work is not for everyone, you need to be international about it, develop certain skills and mind-set in order to find a job and grow your career in a foreign country. You must have a will to learn the language and culture of the country you want to work in. The following skills will come handy when looking for a job in a foreign country. 
@@ -125,7 +125,7 @@
                 </div>                                
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
-                        <i class="fa fa-book" style="text-align: center;"></i>
+                        <i class="fa fa-industry" style="text-align: center;"></i>
                         <h3>Sectors currently hiring</h3>
                         <p>
                             Health Professionals (there is high demand for healthcare workers in the US, UK, New Zealand, Canada and Saudi Arabia)

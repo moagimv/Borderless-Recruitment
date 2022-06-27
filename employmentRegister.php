@@ -96,7 +96,7 @@
                                 </div>                               
                                 <div class="row">
                                     <div class="control-group col-lg-4 col-md-6">
-                                        <p>Copy of Identity (ID)</p>
+                                        <p>Copy of Passport/Identity</p>
                                         <input type="file" id="idCopy" name="idCopy">
                                     </div>
                                     <div class="control-group col-lg-4 col-md-6">

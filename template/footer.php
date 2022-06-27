@@ -32,7 +32,7 @@
                             <h2>Useful Links</h2>
                             <a href="termsandconditions.php">Terms of use</a>
                             <a hidden href="#">Privacy policy</a>
-                            <a href="#">Cookies</a>
+                            <a hidden href="#">Cookies</a>
                             <a href="admin/login.php">Admin</a>
                             <a href="#">FQAs</a>
                         </div>

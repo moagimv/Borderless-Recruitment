@@ -111,15 +111,11 @@
                                     <p class="help-block text-danger"></p>
                                 </div>
                                 <div class="row">
-                                    <div class="control-group col-lg-4 col-md-6">
-                                        <p>Copy of Identity</p>
+                                    <div class="control-group col-lg-6 col-md-6">
+                                        <p>Copy of Passport/Identity</p>
                                         <input type="file" id="identity" name="identity">
                                     </div>
-                                    <div class="control-group col-lg-4 col-md-6">
-                                        <p>Copy of Passport</p>
-                                        <input type="file" id="passport" name="passport">
-                                    </div>
-                                    <div class="control-group col-lg-4 col-md-6">
+                                    <div class="control-group col-lg-6 col-md-6">
                                         <p>Copy of Results/Certification</p>
                                         <input type="file" id="results" name="results">
                                     </div>

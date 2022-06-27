@@ -67,7 +67,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
-                        <i class="fa fa-book" style="text-align: center;"></i>
+                        <i class="fa fa-suitcase" style="text-align: center;"></i>
                         <h3>Job Seekers Services</h3>
                         <p>
                             If you are looking for an overseas job, you came to the right place.<br /><br />
@@ -79,7 +79,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item">
-                        <i class="fa fa-industry" style="text-align: right;"></i>
+                        <i class="fa fa-handshake" style="text-align: right;"></i>
                         <h3>Employers Services</h3>
                         <p>
                             We provide opportunities for employers to recruit and be linked with suitable candidates who will assist their organizations grow, because the right candidate employee brings out the best that their organization offers to its clients

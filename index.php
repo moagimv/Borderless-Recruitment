@@ -48,7 +48,7 @@
                             <h3>Borderless Recruitment</h3>
                             <h1>Your Career is our business...</h1>
                             <p>
-                                Your Reliable Partner for Guinine and Quality Services for Undertaking Studies Overseas 
+                                Your Reliable Partner for Genuine and Quality Services for Undertaking Studies Overseas 
                             </p>
                             <a class="btn btn-custom" href="service.php">Explore More</a>
                         </div>
